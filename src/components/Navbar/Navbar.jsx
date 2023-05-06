@@ -20,7 +20,7 @@ function classNames(...classes) {
 export default function Navbar() {
   return (
     <div>
-      <Disclosure as="nav" className="bg-primary">
+      <Disclosure as="nav" className="bg-white">
         {({ open }) => (
           <>
             <div className="px-2 sm:px-6 lg:px-8 container mx-auto">
@@ -57,8 +57,8 @@ export default function Navbar() {
                           href={item.href}
                           className={classNames(
                             item.current
-                              ? "bg-white text-primary"
-                              : "text-white hover:bg-tertiary hover:text-white",
+                              ? "bg-primary text-white"
+                              : "text-primary hover:bg-secondary hover:text-white",
                             "rounded-md px-3 py-2 text-sm font-medium"
                           )}
                           aria-current={item.current ? "page" : undefined}
@@ -71,25 +71,25 @@ export default function Navbar() {
                 </div>
                 <div className="hidden md:block">
                   <div className="flex">
-                  <div className="flex text-white">
+                  <div className="flex text-primary">
                     <img
                       src={PhoneIcon}
                       alt=""
-                      className="h-8 w-8 bg-white rounded-full p-1"
+                      className="h-8 w-8 rounded-full p-1"
                     />
                     <span className="text pt-1 mx-4">+91 7306600306</span>
                   </div>
-                  <div className="flex text-white">
+                  <div className="flex text-primary">
                     <img
                       src={EmailIcon}
                       alt=""
-                      className="h-8 w-8 bg-white rounded-full p-1"
+                      className="h-8 w-8 p-1"
                     />
                     <span className="text pt-1 mx-4">
                       rasheedvaniyannurrashi175@gmail.com
                     </span>
                   </div>
-                  <div className="flex text-white">
+                  <div className="flex text-primary">
                     <img
                       src={WhatsappIcon}
                       alt=""
