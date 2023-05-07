@@ -3,6 +3,7 @@ import FirstView from "../../components/Home/FirstView";
 import ContactForm from "../../components/SideForm/SideForm";
 import AccountingImage from "../../assets/paperwork.jpg";
 import SecondView from "../../components/Home/SecondView";
+import Services from "../../components/Home/Services";
 
 function Home() {
   return (
@@ -19,6 +20,7 @@ function Home() {
         </div>
       </div>
       <SecondView />
+      <Services />
 
     </div>
   );
