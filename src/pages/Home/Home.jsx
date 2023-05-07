@@ -4,6 +4,7 @@ import ContactForm from "../../components/SideForm/SideForm";
 import AccountingImage from "../../assets/paperwork.jpg";
 import SecondView from "../../components/Home/SecondView";
 import Services from "../../components/Home/Services";
+import Footer from "../../components/Footer/Footer";
 
 function Home() {
   return (
@@ -21,6 +22,7 @@ function Home() {
       </div>
       <SecondView />
       <Services />
+      <Footer />
 
     </div>
   );
