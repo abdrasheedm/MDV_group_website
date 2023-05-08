@@ -11,8 +11,9 @@ import VATPenalty from './pages/Services/VAT Services/VATPenalty'
 import VATVolantaryDisclosure from './pages/Services/VAT Services/VATVoluntaryDisclosure'
 import VATCompliantBookKeeping from './pages/Services/VAT Services/VATCompliant'
 import Nav from './components/Navbar/nav'
-import ExsiceTaxRegistration from './pages/Services/VAT Services/Excise Tax/TaxRegistration'
-import ExciseTaxReturnFiling from './pages/Services/VAT Services/Excise Tax/TaxReturnFiling'
+import ExsiceTaxRegistration from './pages/Services/Excise Tax/TaxRegistration'
+import ExciseTaxRefund from './pages/Services/Excise Tax/TaxRefund'
+import ExciseTaxReturnFiling from './pages/Services/Excise Tax/TaxReturnFiling'
 
 
 
@@ -35,6 +36,7 @@ function App() {
 
       <Route path='service/excise-tax-registration/' element={<ExsiceTaxRegistration />} />
       <Route path='service/excise-tax-return-filing/' element={<ExciseTaxReturnFiling />} />
+      <Route path='service/excise-tax-refund/' element={<ExciseTaxRefund />} />
       </Routes>
       <Footer />
     </>
