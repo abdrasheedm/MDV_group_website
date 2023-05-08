@@ -22,7 +22,6 @@ function Home() {
       </div>
       <SecondView />
       <Services />
-      <Footer />
 
     </div>
   );

@@ -2,6 +2,17 @@ import { useState } from 'react'
 import Navbar from './components/Navbar/Navbar'
 import { Routes, Route } from 'react-router-dom'
 import Home from './pages/Home/Home'
+import VATRegistrationServices from './pages/Services/VAT Services/VATRegistrationServices'
+import Footer from './components/Footer/Footer'
+import VATReturnFiling from './pages/Services/VAT Services/VARRuturnFiling'
+import VATRefund from './pages/Services/VAT Services/VATRefund'
+import VATDeregistration from './pages/Services/VAT Services/VATDeregistration'
+import VATPenalty from './pages/Services/VAT Services/VATPenalty'
+import VATVolantaryDisclosure from './pages/Services/VAT Services/VATVoluntaryDisclosure'
+import VATCompliantBookKeeping from './pages/Services/VAT Services/VATCompliant'
+import Nav from './components/Navbar/nav'
+import ExsiceTaxRegistration from './pages/Services/VAT Services/Excise Tax/TaxRegistration'
+import ExciseTaxReturnFiling from './pages/Services/VAT Services/Excise Tax/TaxReturnFiling'
 
 
 
@@ -10,9 +21,22 @@ function App() {
   return (
     <>
       <Navbar />
+      {/* <Nav /> */}
       <Routes>
       <Route path='/' element={<Home />} />
+      <Route path='service/vat-registration-service/' element={<VATRegistrationServices />} />
+      <Route path='service/vat-return-filing-service/' element={<VATReturnFiling />} />
+      <Route path='service/vat-refund-service/' element={<VATRefund />} />
+      <Route path='service/vat-deregistration-service/' element={<VATDeregistration />} />
+      <Route path='service/vat-penalty-reconsideration/' element={<VATPenalty />} />
+      <Route path='service/vat-voluntary-disclosure/' element={<VATVolantaryDisclosure />} />
+      <Route path='service/vat-compliant-bookkeeping/' element={<VATCompliantBookKeeping />} />
+
+
+      <Route path='service/excise-tax-registration/' element={<ExsiceTaxRegistration />} />
+      <Route path='service/excise-tax-return-filing/' element={<ExciseTaxReturnFiling />} />
       </Routes>
+      <Footer />
     </>
   )
 }

@@ -15,7 +15,7 @@ function Footer() {
         <div className="container mx-auto px-20 py-10">
           <div className="grid grid-cols-6 bg-white bg-opacity-30 text-white">
             <div className="col-span-2 m-5 px-2">
-              <h3>About Us</h3>
+              <h3 className="text-2xl text-secondary">About Us</h3>
               <p>
                 Bestax Chartered Accountants is a leading financial consultancy
                 and business advisory firm in the heart of Dubai, Business Bay.
@@ -24,7 +24,7 @@ function Footer() {
               </p>
             </div>
             <div className="col-span-1 m-5 px-2">
-              <h3>Useful Links</h3>
+              <h3 className="text-2xl text-secondary">Useful Links</h3>
               <p className="pb-3">About Us</p>
               <p className="pb-3">Career</p>
               <p className="pb-3">Insights</p>
@@ -34,16 +34,31 @@ function Footer() {
             </div>
             <div className="col-span-1 m-5 px-2"></div>
             <div className="col-span-2 m-5 px-2">
-              <h3>Office Address</h3>
-              <div>
+              <h3 className="text-2xl text-secondary">Office Address</h3>
+              <div className="mb-3">
                 <div className="flex">
-                <i class="fa-solid fa-location-dot"></i>
+                <i class="fa-solid fa-location-dot m-3 text-secondary"></i>
                   <p>Office 804, Park Lane Tower, Business Bay Dubai, UAE</p>
+                </div>
+              </div>
+              <div className="mb-3">
+                <div className="flex">
+                <i class="fa-solid fa-phone mx-3 mt-1 text-secondary"></i>
+                  <p>Mobile : <span>+91 7306 600 306</span></p>
+                </div>
+              </div>
+              <div className="mb-3">
+                <div className="flex">
+                <i class="fa-sharp fa-solid fa-envelope mx-3 mt-1 text-secondary"></i>
+                  <p>rasheed@gmail.com</p>
                 </div>
               </div>
             </div>
           </div>
         </div>
+      </div>
+      <div className="bg-primary text-white text-center p-5">
+        <p>© 2023 Bestaxca, All Rights are Reserved.</p>
       </div>
     </div>
   );

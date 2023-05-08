@@ -4,11 +4,19 @@ import { Bars3Icon, BellIcon, XMarkIcon } from "@heroicons/react/24/outline";
 import PhoneIcon from "../../assets/phone-icon1.svg";
 import EmailIcon from "../../assets/email-icon.svg";
 import WhatsappIcon from "../../assets/whatsapp.svg";
+import { useNavigate } from "react-router-dom";
+import { menuItems } from "./menuItem";
+import MenuItems from "./MenuItems";
 
 const navigation = [
-  { name: "Home", href: "#", current: true },
+  { name: "Home", href: "/", current: true },
   { name: "About us", href: "#", current: false },
-  { name: "Our services", href: "#", current: false },
+  { name: "Tax", href: "#", current: false, service: true },
+  { name: "Accounting", href: "#", current: false, service: true },
+  { name: "Audit", href: "#", current: false, service: true },
+  { name: "Compliance", href: "#", current: false, service: true },
+  { name: "Bussiness Startup", href: "#", current: false, service: true },
+  { name: "Software Solutions", href: "#", current: false, service: true },
   { name: "Insights", href: "#", current: false },
   { name: "Contact us", href: "#", current: false },
 ];
@@ -18,6 +26,7 @@ function classNames(...classes) {
 }
 
 export default function Navbar() {
+  const navigate = useNavigate();
   return (
     <div>
       <Disclosure as="nav" className="bg-white">
@@ -51,25 +60,52 @@ export default function Navbar() {
                   </div>
                   <div className="hidden sm:ml-6 sm:block">
                     <div className="flex space-x-4">
-                      {navigation.map((item) => (
-                        <a
+                      <nav className="">
+                        <ul className="menus">
+                          {menuItems.map((menu, index) => {
+                            const depthLevel = 0;
+                            return (
+                              <MenuItems
+                                items={menu}
+                                key={index}
+                                depthLevel={depthLevel}
+                              />
+                            );
+                          })}
+                        </ul>
+                      </nav>
+                      {/* {navigation.map((item) => (
+                        <div
                           key={item.name}
-                          href={item.href}
+                          onClick={() => navigate("/")}
                           className={classNames(
                             item.current
-                              ? "bg-primary text-white"
-                              : "text-primary hover:bg-secondary hover:text-white",
+                              ? "bg-primary text-white inline-flex"
+                              : "text-primary hover:bg-secondary hover:text-white inline-flex",
                             "rounded-md px-3 py-2 text-sm font-medium"
                           )}
                           aria-current={item.current ? "page" : undefined}
                         >
                           {item.name}
-                        </a>
-                      ))}
+                          {item.service && (<svg
+                      className="ml-2 mt-1 -mr-0.5 h-4 w-4"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 20 20"
+                      fill="currentColor"
+                      aria-hidden="true"
+                    >
+                      <path
+                        fillRule="evenodd"
+                        d="M10 14l5-5-5-5-1.41 1.41L11.17 9H4v2h7.17l-2.58 2.58L10 14z"
+                        clipRule="evenodd"
+                      />
+                    </svg>)}
+                        </div>
+                      ))} */}
                     </div>
                   </div>
                 </div>
-                <div className="hidden md:block">
+                {/* <div className="hidden md:block">
                   <div className="flex">
                   <div className="flex text-primary">
                     <img
@@ -98,7 +134,7 @@ export default function Navbar() {
                     <span className="text pt-1 mx-4">+91 7306600306</span>
                   </div>
                   </div>
-                </div>
+                </div> */}
               </div>
             </div>
 
