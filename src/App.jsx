@@ -14,6 +14,12 @@ import Nav from './components/Navbar/nav'
 import ExsiceTaxRegistration from './pages/Services/Excise Tax/TaxRegistration'
 import ExciseTaxRefund from './pages/Services/Excise Tax/TaxRefund'
 import ExciseTaxReturnFiling from './pages/Services/Excise Tax/TaxReturnFiling'
+import ExciseTaxDeregistration from './pages/Services/Excise Tax/TaxDergistration'
+import ExciseStockAudit from './pages/Services/Excise Tax/StockAudit'
+import ExciseTaxPenaltyReconsideration from './pages/Services/Excise Tax/TaxPenaltyReconsideration'
+import ExciseTaxCompliance from './pages/Services/Excise Tax/TaxCompliance'
+import ExcisePreAuditHealthCheck from './pages/Services/Excise Tax/PreAditHealthCheck'
+import ExciseTaxImplementation from './pages/Services/Excise Tax/TaxImplementaion'
 
 
 
@@ -37,6 +43,12 @@ function App() {
       <Route path='service/excise-tax-registration/' element={<ExsiceTaxRegistration />} />
       <Route path='service/excise-tax-return-filing/' element={<ExciseTaxReturnFiling />} />
       <Route path='service/excise-tax-refund/' element={<ExciseTaxRefund />} />
+      <Route path='service/excise-tax-deregistration/' element={<ExciseTaxDeregistration />} />
+      <Route path='service/excise-stock-audit/' element={<ExciseStockAudit />} />
+      <Route path='service/excise-tax-penalty-reconsideration/' element={<ExciseTaxPenaltyReconsideration />} />
+      <Route path='service/excise-tax-compliance/' element={<ExciseTaxCompliance />} />
+      <Route path='service/excise-pre-audit-health-check/' element={<ExcisePreAuditHealthCheck />} />
+      <Route path='service/excise-tax-implementation-and-training/' element={<ExciseTaxImplementation />} />
       </Routes>
       <Footer />
     </>
