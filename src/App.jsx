@@ -20,6 +20,9 @@ import ExciseTaxPenaltyReconsideration from './pages/Services/Excise Tax/TaxPena
 import ExciseTaxCompliance from './pages/Services/Excise Tax/TaxCompliance'
 import ExcisePreAuditHealthCheck from './pages/Services/Excise Tax/PreAditHealthCheck'
 import ExciseTaxImplementation from './pages/Services/Excise Tax/TaxImplementaion'
+import CorporateTaxImplementationAndTraining from './pages/Services/CorporateTax/ImplementationAndTraining'
+import CorporateTaxServices from './pages/Services/CorporateTax/TaxServices'
+import CorporateTaxPlanningServices from './pages/Services/CorporateTax/TaxPlanningServices'
 
 
 
@@ -49,6 +52,9 @@ function App() {
       <Route path='service/excise-tax-compliance/' element={<ExciseTaxCompliance />} />
       <Route path='service/excise-pre-audit-health-check/' element={<ExcisePreAuditHealthCheck />} />
       <Route path='service/excise-tax-implementation-and-training/' element={<ExciseTaxImplementation />} />
+      <Route path='service/corporate-tax-implementation-and-training/' element={<CorporateTaxImplementationAndTraining />} />
+      <Route path='service/corporate-tax-services/' element={<CorporateTaxServices />} />
+      <Route path='service/corporate-tax-planning-services/' element={<CorporateTaxPlanningServices />} />
       </Routes>
       <Footer />
     </>
