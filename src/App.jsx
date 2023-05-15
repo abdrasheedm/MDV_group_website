@@ -27,6 +27,15 @@ import AccountingAndBookKeeping from './pages/Services/Accounting/BookKeeping'
 import BackLogAccountingService from './pages/Services/Accounting/BackLogAccounting'
 import IFRSImplementationAndConsultancyService from './pages/Services/Accounting/IFRSImplementation'
 import ExpertAccountingSupervisionService from './pages/Services/Accounting/ExpertAccountingSuperVision'
+import AffordableAccountigFirm from './pages/Services/Accounting/AffordabelAccounting'
+import ManagementAccounting from './pages/Services/Accounting/ManagementAccounting'
+import BankReconciliationStatementService from './pages/Services/Accounting/BankReconciliationStatement'
+import ExternalAuditServices from './pages/Services/Audit/ExternalAuditService'
+import TaxAudit from './pages/Services/Audit/TaxAudit'
+import InternalAduditService from './pages/Services/Audit/InternalAuditServices'
+import FinancialAuditService from './pages/Services/Audit/FinancialAuditService'
+import StockAuditService from './pages/Services/Audit/StockAuditServices'
+import UBOCompliance from './pages/Services/Compliance/UBOCompliance'
 
 
 
@@ -67,6 +76,18 @@ function App() {
       <Route path='service/backlog-accounting-service/' element={<BackLogAccountingService />} />
       <Route path='service/ifrs-implementation-consultancy-service/' element={<IFRSImplementationAndConsultancyService />} />
       <Route path='service/expert-accounting-supervision-service/' element={<ExpertAccountingSupervisionService />} />
+      <Route path='service/affordable-accounting-firm/' element={<AffordableAccountigFirm />} />
+      <Route path='service/management-accounting-service/' element={<ManagementAccounting />} />
+      <Route path='service/bank-reconciliation-statement-service/' element={<BankReconciliationStatementService />} />
+
+
+      <Route path='service/external-audit-services-in-dubai/' element={<ExternalAuditServices />} />
+      <Route path='service/tax-audit/' element={<TaxAudit />} />
+      <Route path='service/internal-audit-services-in-dubai/' element={<InternalAduditService />} />
+      <Route path='service/financial-audit-service/' element={<FinancialAuditService />} />
+      <Route path='service/stock-audit-service/' element={<StockAuditService />} />
+      <Route path='service/ubo-compliance/' element={<UBOCompliance />} />
+
 
       </Routes>
       <Footer />
