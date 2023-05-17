@@ -36,6 +36,15 @@ import InternalAduditService from './pages/Services/Audit/InternalAuditServices'
 import FinancialAuditService from './pages/Services/Audit/FinancialAuditService'
 import StockAuditService from './pages/Services/Audit/StockAuditServices'
 import UBOCompliance from './pages/Services/Compliance/UBOCompliance'
+import EconomicSubstanceRegulation from './pages/Services/Compliance/EconomicsSubstance'
+import AntiMoneyLaundering from './pages/Services/Compliance/AntiMoneyLaundering'
+import CompanyFormation from './pages/Services/BussinessStartup/CompanyFormation'
+import FinancialFeasibilyStudy from './pages/Services/BussinessStartup/FinancialFeasibiliy'
+import ProfessionalBussinessValuation from './pages/Services/BussinessStartup/ProfessionalBussiness'
+import ICVCertification from './pages/Services/BussinessStartup/ICVCertification'
+import AccountingSoftware from './pages/Services/SoftwareSolution/AccountingSoftware'
+import CRMImplementationAndTraining from './pages/Services/SoftwareSolution/CRMImplementation'
+import AccountingSystemAnalysis from './pages/Services/SoftwareSolution/AccountingSystemAnalysis'
 
 
 
@@ -47,6 +56,8 @@ function App() {
       {/* <Nav /> */}
       <Routes>
       <Route path='/' element={<Home />} />
+
+      {/* VAT Tax Services */}
       <Route path='service/vat-registration-service/' element={<VATRegistrationServices />} />
       <Route path='service/vat-return-filing-service/' element={<VATReturnFiling />} />
       <Route path='service/vat-refund-service/' element={<VATRefund />} />
@@ -55,6 +66,7 @@ function App() {
       <Route path='service/vat-voluntary-disclosure/' element={<VATVolantaryDisclosure />} />
       <Route path='service/vat-compliant-bookkeeping/' element={<VATCompliantBookKeeping />} />
 
+      {/* Excise Tax Services */}
 
       <Route path='service/excise-tax-registration/' element={<ExsiceTaxRegistration />} />
       <Route path='service/excise-tax-return-filing/' element={<ExciseTaxReturnFiling />} />
@@ -66,11 +78,13 @@ function App() {
       <Route path='service/excise-pre-audit-health-check/' element={<ExcisePreAuditHealthCheck />} />
       <Route path='service/excise-tax-implementation-and-training/' element={<ExciseTaxImplementation />} />
 
+      {/* Corporate Tax Services */}
 
       <Route path='service/corporate-tax-implementation-and-training/' element={<CorporateTaxImplementationAndTraining />} />
       <Route path='service/corporate-tax-services/' element={<CorporateTaxServices />} />
       <Route path='service/corporate-tax-planning-services/' element={<CorporateTaxPlanningServices />} />
       
+      {/* Accounting Services */}
       
       <Route path='service/accounting-service-bookkeeping-firm/' element={<AccountingAndBookKeeping />} />
       <Route path='service/backlog-accounting-service/' element={<BackLogAccountingService />} />
@@ -80,13 +94,34 @@ function App() {
       <Route path='service/management-accounting-service/' element={<ManagementAccounting />} />
       <Route path='service/bank-reconciliation-statement-service/' element={<BankReconciliationStatementService />} />
 
+      {/* Audit Services */}
 
       <Route path='service/external-audit-services-in-dubai/' element={<ExternalAuditServices />} />
       <Route path='service/tax-audit/' element={<TaxAudit />} />
       <Route path='service/internal-audit-services-in-dubai/' element={<InternalAduditService />} />
       <Route path='service/financial-audit-service/' element={<FinancialAuditService />} />
       <Route path='service/stock-audit-service/' element={<StockAuditService />} />
+
+      {/* Compliance Services */}
+
       <Route path='service/ubo-compliance/' element={<UBOCompliance />} />
+      <Route path='service/economic-substance-regulations-services/' element={<EconomicSubstanceRegulation />} />
+      <Route path='service/anti-money-laundering/' element={<AntiMoneyLaundering />} />
+
+
+      {/* Bussiness Startup Services */}
+
+      <Route path='service/company-formation-services/' element={<CompanyFormation />} />
+      <Route path='service/financial-feasibility-study-service/' element={<FinancialFeasibilyStudy />} />
+      <Route path='service/professional-bussiness-valuation-service/' element={<ProfessionalBussinessValuation />} />
+      <Route path='service/icv-certification-service/' element={<ICVCertification />} />
+
+
+      {/* Software Solutions */}
+      <Route path='service/accounting-softwares-erp-implementaion/' element={<AccountingSoftware />} />
+      <Route path='service/erm-implementation-and-training/' element={<CRMImplementationAndTraining />} />
+      <Route path='service/accounting-system-analysis-and-implementaion/' element={<AccountingSystemAnalysis />} />
+
 
 
       </Routes>

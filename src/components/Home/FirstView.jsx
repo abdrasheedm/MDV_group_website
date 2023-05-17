@@ -3,7 +3,10 @@ import AccountingIcon from '../../assets/Accounting.svg'
 import TaxIcon from '../../assets/tax.svg'
 import AuditingIcon from '../../assets/Auditing.svg'
 import IcvIcon from '../../assets/ICV.svg'
+import { useNavigate } from "react-router-dom";
 function FirstView() {
+
+  const navigate = useNavigate()
   return (
     <div className="pt-5 col-span-3 md:col-span-2">
       <div className="container-md flex flex-wrap justify-center">
@@ -30,19 +33,19 @@ function FirstView() {
           </p>
           </div>
           <div className="grid grid-cols-4">
-            <div className="grid grid-cols-4 col-span-2 m-3 bg-secondary bg-opacity-30 border-2 border-white">
+            <div className="grid grid-cols-4 col-span-4 md:col-span-2 m-3 bg-secondary bg-opacity-30 border-2 border-white hover:cursor-pointer" onClick={() => navigate('service/accounting-service-bookkeeping-firm/')}>
               <img src={AccountingIcon} alt="" className="h-12 p-2 m-3 col-span-1"/>
               <h4 className="col-span-3 text-center p-2 m-3">Accounting Services</h4>
             </div>
-            <div className="grid grid-cols-4 col-span-2 m-3 bg-secondary bg-opacity-30 border-2 border-white">
+            <div className="grid grid-cols-4 col-span-4 md:col-span-2 m-3 bg-secondary bg-opacity-30 border-2 border-white hover:cursor-pointer" onClick={() => navigate('service/vat-registration-service/')}>
               <img src={TaxIcon} alt="" className="h-12 p-2 m-3 col-span-1"/>
               <h4 className="col-span-3 text-center p-2 m-3">Tax Services</h4>
             </div>
-            <div className="grid grid-cols-4 col-span-2 m-3 bg-secondary bg-opacity-30 border-2 border-white">
+            <div className="grid grid-cols-4 col-span-4 md:col-span-2 m-3 bg-secondary bg-opacity-30 border-2 border-white hover:cursor-pointer" onClick={() => navigate('service/external-audit-services-in-dubai/')}>
               <img src={AuditingIcon} alt="" className="h-12 p-2 m-3 col-span-1"/>
               <h4 className="col-span-3 text-center p-2 m-3">Auditing Services</h4>
             </div>
-            <div className="grid grid-cols-4 col-span-2 m-3 bg-secondary bg-opacity-30 border-2 border-white">
+            <div className="grid grid-cols-4 col-span-4 md:col-span-2 m-3 bg-secondary bg-opacity-30 border-2 border-white hover:cursor-pointer" onClick={() => navigate('service/icv-certification-service/')}>
               <img src={IcvIcon} alt="" className="h-12 p-2 m-3 col-span-1"/>
               <h4 className="col-span-3 text-center p-2 m-3">ICV Services</h4>
             </div>

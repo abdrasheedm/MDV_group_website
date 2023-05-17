@@ -33,19 +33,19 @@ function SecondView() {
           </div>
         </div>
         <div className="grid grid-cols-4 bg-primary my-20">
-            <div className="col-span-1 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
+            <div className="col-span-4 md:col-span-1 mb-5 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
                 <h1>2500+</h1>
                 <h3>Happy Clients</h3>
             </div>
-            <div className="col-span-1 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
+            <div className="col-span-4 md:col-span-1 mb-5 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
                 <h1>100%</h1>
                 <h3>Commitment</h3>
             </div>
-            <div className="col-span-1 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
+            <div className="col-span-4 md:col-span-1 mb-5 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
               <h1><i class="fa-solid fa-square-check"></i></h1>
                 <h3>Timely Response</h3>
             </div>
-            <div className="col-span-1 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
+            <div className="col-span-4 md:col-span-1 mb-5 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
                 <h1>35+</h1>
                 <h3>Professional</h3>
             </div>

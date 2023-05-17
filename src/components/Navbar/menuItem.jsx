@@ -139,5 +139,94 @@ export const menuItems = [
         
       ],
     },
+    {
+      title: 'Audit',
+      submenu: [
+        {
+          title: 'External Audit Services in Dubai',
+          url: 'service/external-audit-services-in-dubai/',
+        },
+        {
+          title: 'Tax Audit',
+          url: 'service/tax-audit/',
+        },
+        {
+          title: 'Internal Audit Services',
+          url: 'service/internal-audit-services-in-dubai/',
+        },
+        {
+          title: 'Financial Audit Services',
+          url: 'service/financial-audit-service/',
+        },
+        {
+          title: 'Stock Audit Services',
+          url: 'service/stock-audit-service/',
+        },
+        
+        
+      ],
+    },
+    {
+      title: 'Compliance Services',
+      submenu: [
+        {
+          title: 'UBO Compliance',
+          url: 'service/ubo-compliance/',
+        },
+        {
+          title: 'Economic Substance Regulations Services',
+          url: 'service/economic-substance-regulations-services/',
+        },
+        {
+          title: 'Anti-Money Laundering In Dubai',
+          url: 'service/anti-money-laundering/',
+        },
+       
+        
+        
+      ],
+    },
+    {
+      title: 'Bussiness Startup Services',
+      submenu: [
+        {
+          title: 'Company Formation Services',
+          url: 'service/company-formation-services/',
+        },
+        {
+          title: 'Financial Feasibility Study Services',
+          url: 'service/financial-feasibility-study-service/',
+        },
+        {
+          title: 'Professional Business Valuation Services',
+          url: 'service/professional-bussiness-valuation-service/',
+        },
+        {
+          title: 'ICV Certification Services In UAE',
+          url: 'service/icv-certification-service/',
+        },
+       
+        
+        
+      ],
+    },
+    {
+      title: 'Software Solutions',
+      submenu: [
+        {
+          title: 'Accounting Softwares & ERP Implementation',
+          url: 'service/accounting-softwares-erp-implementaion/',
+        },
+        {
+          title: 'CRM Implementation & Training',
+          url: 'service/erm-implementation-and-training/',
+        },
+        {
+          title: 'Accounting System Analysis & Implementation',
+          url: 'service/accounting-system-analysis-and-implementaion/',
+        },
+      ],
+    },
+    
   ];
   

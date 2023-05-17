@@ -139,24 +139,50 @@ export default function Navbar() {
             </div>
 
             <Disclosure.Panel className="sm:hidden">
-              <div className="space-y-1 px-2 pb-3 pt-2">
-                {navigation.map((item) => (
-                  <Disclosure.Button
-                    key={item.name}
-                    as="a"
-                    href={item.href}
-                    className={classNames(
-                      item.current
-                        ? "bg-gray-900 text-white"
-                        : "text-gray-300 hover:bg-gray-700 hover:text-white",
-                      "block rounded-md px-3 py-2 text-base font-medium"
-                    )}
-                    aria-current={item.current ? "page" : undefined}
-                  >
-                    {item.name}
-                  </Disclosure.Button>
-                ))}
-              </div>
+            <div className="flex space-x-4">
+                      <nav className="">
+                        <ul className="menus">
+                          {menuItems.map((menu, index) => {
+                            const depthLevel = 0;
+                            return (
+                              <MenuItems
+                                items={menu}
+                                key={index}
+                                depthLevel={depthLevel}
+                              />
+                            );
+                          })}
+                        </ul>
+                      </nav>
+                      {/* {navigation.map((item) => (
+                        <div
+                          key={item.name}
+                          onClick={() => navigate("/")}
+                          className={classNames(
+                            item.current
+                              ? "bg-primary text-white inline-flex"
+                              : "text-primary hover:bg-secondary hover:text-white inline-flex",
+                            "rounded-md px-3 py-2 text-sm font-medium"
+                          )}
+                          aria-current={item.current ? "page" : undefined}
+                        >
+                          {item.name}
+                          {item.service && (<svg
+                      className="ml-2 mt-1 -mr-0.5 h-4 w-4"
+                      xmlns="http://www.w3.org/2000/svg"
+                      viewBox="0 0 20 20"
+                      fill="currentColor"
+                      aria-hidden="true"
+                    >
+                      <path
+                        fillRule="evenodd"
+                        d="M10 14l5-5-5-5-1.41 1.41L11.17 9H4v2h7.17l-2.58 2.58L10 14z"
+                        clipRule="evenodd"
+                      />
+                    </svg>)}
+                        </div>
+                      ))} */}
+                    </div>
             </Disclosure.Panel>
           </>
         )}

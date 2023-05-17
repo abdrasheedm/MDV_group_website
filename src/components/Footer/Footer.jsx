@@ -14,7 +14,7 @@ function Footer() {
       <div className="bg-gray-950 bg-opacity-70">
         <div className="container mx-auto px-20 py-10">
           <div className="grid grid-cols-6 bg-white bg-opacity-30 text-white">
-            <div className="col-span-2 m-5 px-2">
+            <div className="col-span-6 md:col-span-3 lg:col-span-2  m-5 px-2">
               <h3 className="text-2xl text-secondary">About Us</h3>
               <p>
                 Bestax Chartered Accountants is a leading financial consultancy
@@ -23,7 +23,7 @@ function Footer() {
                 auditing, accounting & bookkeeping, and other financial service.{" "}
               </p>
             </div>
-            <div className="col-span-1 m-5 px-2">
+            <div className="col-span-6 md:col-span-3 lg:col-span-1 m-5 px-2">
               <h3 className="text-2xl text-secondary">Useful Links</h3>
               <p className="pb-3">About Us</p>
               <p className="pb-3">Career</p>
@@ -32,8 +32,8 @@ function Footer() {
               <p className="pb-3">Contact Us</p>
               <p className="pb-3">Privacy Policy</p>
             </div>
-            <div className="col-span-1 m-5 px-2"></div>
-            <div className="col-span-2 m-5 px-2">
+            <div className="col-span-6 md:col-span-3 lg:col-span-1 m-5 px-2"></div>
+            <div className="col-span-6 md:col-span-3 lg:col-span-2 m-5 px-2">
               <h3 className="text-2xl text-secondary">Office Address</h3>
               <div className="mb-3">
                 <div className="flex">
