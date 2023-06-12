@@ -8,9 +8,9 @@ function SecondView() {
     <div className="" style={{backgroundImage: `url(${image3})`, backgroundSize:"cover"}}>
       <div className="container mx-auto py-20">
         <div className="grid grid-cols-5 p-10 my-28 bg-gray-300 bg-opacity-30">
-          <div className="col-span-3">
+          <div className="col-span-6 md:col-span-3 pb-5">
             <h1 className=""><span className="border-b-4 border-secondary">Welcome to BESTAX</span></h1>
-            <p>
+            <p className="text-sm md:text-base">
               A trusted and top-rated financial and business consulting firm
               with a commanding presence in Dubai and the Canada/US region. We
               specialize in a comprehensive range of services, including
@@ -28,10 +28,11 @@ function SecondView() {
               you.
             </p>
           </div>
-          <div className="col-span-2 mx-10">
+          <div className="col-span-6 md:col-span-2 mx-10">
             <img src={image1} alt="" />
           </div>
         </div>
+        <div className="flex justify-center">
         <div className="grid grid-cols-4 bg-primary my-20">
             <div className="col-span-4 md:col-span-1 mb-5 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
                 <h1>2500+</h1>
@@ -49,6 +50,7 @@ function SecondView() {
                 <h1>35+</h1>
                 <h3>Professional</h3>
             </div>
+        </div>
         </div>
       </div>
     </div>

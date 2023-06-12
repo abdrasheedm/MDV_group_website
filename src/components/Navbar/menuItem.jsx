@@ -5,7 +5,6 @@ export const menuItems = [
     },
     {
       title: 'Tax',
-      url: '/services',
       submenu: [
         {
           title: 'VAT Tax',

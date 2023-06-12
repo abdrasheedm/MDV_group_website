@@ -21,7 +21,6 @@ function ContactForm() {
   ];
 
   const form = useRef();
-  console.log(selectOption);
   const handleSubmit = (e) => {
     e.preventDefault();
     console.log(form.current)
