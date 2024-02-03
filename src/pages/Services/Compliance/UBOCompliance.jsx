@@ -320,7 +320,7 @@ function UBOCompliance() {
                 <br />
                 It is not easy to obtain information about your UBO and then
                 compile the documentation for submission. A third party, such as
-                BestaxCA, can help significantly. BestaxCA is a consultancy
+                MDV & CO Associates, can help significantly. MDV & CO Associates is a consultancy
                 agency specializing in helping companies to comply with national
                 legislation:
               </p>
@@ -363,10 +363,10 @@ function UBOCompliance() {
 
             <div>
               <h1 className="text-primary text-3xl my-10">
-                How can BestAxca help?
+                How can MDV & CO Associates help?
               </h1>
               <p>
-                BestaxCA can help organizations to comply with the agreement
+                MDV & CO Associates can help organizations to comply with the agreement
                 because it has the necessary knowledge and understanding. It is
                 a delicate matter to verify and declare your UBO. Your facts
                 must be accurate and reliable.
@@ -403,7 +403,7 @@ function UBOCompliance() {
                 </li>
                 <li>
                   Confidentiality of personal data: The data recorded in the
-                  registers is not made public to anyone. BestaxCA, as a
+                  registers is not made public to anyone. MDV & CO Associates, as a
                   professional and reputable organization, can guarantee that
                   your data is stored securely (in accordance with Article
                   15(1-2) of Cabinet Resolution 58/2020).

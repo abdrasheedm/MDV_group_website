@@ -160,10 +160,10 @@ function TaxAudit() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                How does BestaxCA help you with Tax Audit Services in Dubai?
+                How does MDV & CO Associates help you with Tax Audit Services in Dubai?
               </h1>
               <p>
-                BestaxCA is one of the most prominent accounting and audit firms
+                MDV & CO Associates is one of the most prominent accounting and audit firms
                 in the UAE. With over 15 years of experience, our chartered
                 accountants provide financial advisory services in almost all
                 major industries. We help you to provide the best VAT audit

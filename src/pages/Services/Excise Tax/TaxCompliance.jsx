@@ -117,7 +117,7 @@ function ExciseTaxCompliance() {
                 excisable goods. It involves calculating the amount of excise
                 duty according to the excise duty rate. Valuation is important
                 because even a small error in the calculation can lead to the
-                loss of tax records. BestaxCA’s expert excise consultants
+                loss of tax records. MDV & CO Associates’s expert excise consultants
                 efficiently process and calculate the amount of tax payable to
                 the government, leaving no room for error. We provide targeted
                 assistance to individuals and businesses to help them comply
@@ -189,7 +189,7 @@ function ExciseTaxCompliance() {
               </h1>
 
               <p>
-                BestaxCA is a licensed accounting and tax advisory firm in
+                MDV & CO Associates is a licensed accounting and tax advisory firm in
                 Dubai. We understand the importance of excise duty compliance in
                 this fast-growing UAE market. Our tax consultants assist
                 companies with professional excise tax services in accordance

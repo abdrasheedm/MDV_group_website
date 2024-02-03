@@ -27,7 +27,7 @@ function ExsiceTaxRegistration() {
                 <br />
                 However, it is a critical procedure as a small error in the
                 application can result in heavy penalties from the regulatory
-                authorities. BestaxCA’s tax experts can assist you throughout
+                authorities. MDV & CO Associates’s tax experts can assist you throughout
                 the procedure in accordance with the relevant provisions of the
                 law.
               </p>
@@ -282,10 +282,10 @@ function ExsiceTaxRegistration() {
             </div>
             <div>
               <h1 className="text-primary text-xl my-5">
-                Bestaxca Excise Duty Registration Services
+                MDV & CO Associates Excise Duty Registration Services
               </h1>
               <p>
-                Bestax Chartered Accountants and Tax Consultants are part of a
+                MDV & CO Associates Chartered Accountants and Tax Consultants are part of a
                 reputable accounting firm in Dubai. Our dedicated team assists
                 individuals and businesses with excise tax compliance services
                 in Sharjah, Abu Dhabi, Dubai, and all other Emirates. We first
@@ -296,7 +296,7 @@ function ExsiceTaxRegistration() {
                 Our tax experts then prepare and verify all the mandatory
                 information and documents in accordance with FTA standards. They
                 ensure that your process is straightforward and give you the
-                best advice to avoid fines and penalties. BestaxCA has extensive
+                best advice to avoid fines and penalties. MDV & CO Associates has extensive
                 experience in various fields, so you will be proud when you use
                 our excise tax registration services in UAE. We always provide
                 cost-effective solutions for each of our clients and 100%

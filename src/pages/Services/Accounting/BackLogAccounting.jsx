@@ -24,7 +24,7 @@ function BackLogAccountingService() {
                 accounts for past-due periods as required.
                 <br />
                 <br />
-                Bestax Chartered Accountants offers professional accounting
+                MDV & CO Associates Chartered Accountants offers professional accounting
                 services in Dubai, Sharjah, Abu Dhabi, Ajman, and the other UAE
                 Emirates. We provide superior quality services with 100%
                 guaranteed results to all our local and international clients.

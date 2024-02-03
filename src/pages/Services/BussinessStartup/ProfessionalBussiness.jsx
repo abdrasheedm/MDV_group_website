@@ -25,7 +25,7 @@ function ProfessionalBussinessValuation() {
                 organization in the UAE. Investors, for a variety of reasons,
                 need to be convinced of the correct transaction value of their
                 assets. This is a complex task requiring expert advice and
-                support. That is why BestaxCA offers business valuation services
+                support. That is why MDV & CO Associates offers business valuation services
                 in Dubai, Abu Dhabi, and across the region. Let’s get more
                 information about our business valuation services:
               </p>
@@ -142,10 +142,10 @@ function ProfessionalBussinessValuation() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                BestaxCA: Business Valuation Advisory Services
+                MDV & CO Associates: Business Valuation Advisory Services
               </h1>
               <p>
-                Bestax chartered accountants in Dubai help individuals,
+                MDV & CO Associates chartered accountants in Dubai help individuals,
                 businesses and investors determine the net worth of their
                 company. Some of the valuation services we offer include.
               </p>
@@ -165,7 +165,7 @@ function ProfessionalBussinessValuation() {
                 Business advisory services in Dubai
               </h1>
               <p>
-                BestaxCA is a group of well-qualified business consultants and
+                MDV & CO Associates is a group of well-qualified business consultants and
                 chartered accountants in Dubai. Our firm has been serving local
                 and international businesses for more than a decade. We have
                 tailor-made solutions and methods to value your business and

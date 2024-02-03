@@ -21,7 +21,7 @@ function VATCompliantBookKeeping() {
                 taxable persons and businesses. The VAT law requires exempt or
                 non-exempt entities to keep accounting records for at least 5
                 years. A company’s VAT-compliant books and records are used as
-                evidence during FTA audits. BestaxCA has a team of certified tax
+                evidence during FTA audits. MDV & CO Associates has a team of certified tax
                 experts in Dubai who provide the best assistance to national and
                 international clients. We proficiently handle your accounting
                 records and financial transactions in compliance with VAT laws.
@@ -203,7 +203,7 @@ function VATCompliantBookKeeping() {
                 Why choose us for VAT accounting services?
               </h1>
               <p>
-                BestaxCA is a licensed accounting and financial advisory firm in
+                MDV & CO Associates is a licensed accounting and financial advisory firm in
                 Dubai that provides exclusive VAT services to both UAE residents
                 and non-residents. Our team of experts assists you throughout
                 the VAT compliance process in accordance with tax laws and

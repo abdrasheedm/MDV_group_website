@@ -122,7 +122,7 @@ function ExternalAuditServices() {
                 6- Other Information And Documentation
               </h4>
               <p>
-                BESTAX CA is a reliable and trusted audit firm that believes in
+                MDV & CO ASSOCIATES CA is a reliable and trusted audit firm that believes in
                 rendering its services to give your suitable resolution.
               </p>
               <br />
@@ -228,7 +228,7 @@ function ExternalAuditServices() {
                 Get Certified External Auditors In Dubai
               </h1>
               <p>
-                BestaxCA is a team of qualified and certified chartered
+                MDV & CO Associates is a team of qualified and certified chartered
                 accountants in Dubai, United Arab Emirates. We are associated
                 with the country’s best external auditors to help our local and
                 international clients. Our services are tailored to review a

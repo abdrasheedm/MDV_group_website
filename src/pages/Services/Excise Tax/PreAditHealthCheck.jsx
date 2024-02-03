@@ -142,11 +142,11 @@ function ExcisePreAuditHealthCheck() {
             </div>
             <div>
               <h1 className="text-primary text-xl my-5">
-                BestaxCA helps you with your pre-audit assessment
+                MDV & CO Associates helps you with your pre-audit assessment
               </h1>
 
               <p>
-                BestaxCA is affiliated with leading audit firms in Dubai, United
+                MDV & CO Associates is affiliated with leading audit firms in Dubai, United
                 Arab Emirates. The experts have extensive consulting experience
                 in FTA audits and UAE tax laws. A dedicated team of auditors
                 assists you with excise registration, return filing, compliance,

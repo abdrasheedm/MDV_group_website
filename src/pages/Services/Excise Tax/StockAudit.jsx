@@ -172,11 +172,11 @@ function ExciseStockAudit() {
             </div>
             <div>
               <h1 className="text-primary text-xl my-5">
-                How does BestaxCA help you?
+                How does MDV & CO Associates help you?
               </h1>
 
               <p>
-                BestaxCA is affiliated with the leading national audit firm in
+                MDV & CO Associates is affiliated with the leading national audit firm in
                 the United Arab Emirates. Our team brings together highly
                 qualified and certified specialists and auditors to offer you
                 the best excise compliance and advisory services. The auditor

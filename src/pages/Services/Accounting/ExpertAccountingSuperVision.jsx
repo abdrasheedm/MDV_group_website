@@ -213,10 +213,10 @@ function ExpertAccountingSupervisionService() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                BestaxCA’s account monitoring services in Dubai
+                MDV & CO Associates’s account monitoring services in Dubai
               </h1>
               <p>
-                Bestax Chartered Accountants has a team of highly skilled,
+                MDV & CO Associates Chartered Accountants has a team of highly skilled,
                 dedicated, and professionally trained experts who are
                 well-qualified and certified by the world’s leading accounting
                 institutes. Their expertise covers all areas of accounting and

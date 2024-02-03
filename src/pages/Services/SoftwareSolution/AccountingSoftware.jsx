@@ -74,7 +74,7 @@ function AccountingSoftware() {
                 Implementing accounting software – a step-by-step process
               </h1>
               <p>
-                BestaxCA has partnered with leading FTA-approved accounting
+                MDV & CO Associates has partnered with leading FTA-approved accounting
                 software and has excelled in implementing it in your businesses
                 operating in Dubai, UAE. Here are the key steps we take to
                 successfully implement a new accounting software.
@@ -156,10 +156,10 @@ function AccountingSoftware() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                BestaxCA uses the world’s leading accounting software:
+                MDV & CO Associates uses the world’s leading accounting software:
               </h1>
               <p>
-                Bestax Chartered Accountants and Tax Advisors have an extensive
+                MDV & CO Associates Chartered Accountants and Tax Advisors have an extensive
                 and proven understanding of all the accounting software that
                 helps you maintain your finances efficiently. We believe in
                 providing our clients with the best customer support, experience
@@ -214,7 +214,7 @@ function AccountingSoftware() {
                 implementation in Dubai, UAE
               </h1>
               <p>
-                After the Bestax Chartered Accountants are experts in ERP and
+                After the MDV & CO Associates Chartered Accountants are experts in ERP and
                 accounting software in the UAE. With over 15 years of experience
                 across multiple industries, we fully understand the concerns of
                 businesses by integrating accounting software that not only

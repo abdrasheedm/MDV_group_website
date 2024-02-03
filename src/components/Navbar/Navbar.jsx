@@ -4,6 +4,7 @@ import { Bars3Icon, BellIcon, XMarkIcon } from "@heroicons/react/24/outline";
 import PhoneIcon from "../../assets/phone-icon1.svg";
 import EmailIcon from "../../assets/email-icon.svg";
 import WhatsappIcon from "../../assets/whatsapp.svg";
+import MdvLogo from "../../assets/mdv_logo.jpeg"
 import { useNavigate } from "react-router-dom";
 import { menuItems } from "./menuItem";
 import MenuItems from "./MenuItems";
@@ -49,12 +50,12 @@ export default function Navbar() {
                   <div className="flex flex-shrink-0 items-center">
                     <img
                       className="block h-8 w-auto lg:hidden"
-                      src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+                      src={MdvLogo}
                       alt="Your Company"
                     />
                     <img
-                      className="hidden h-8 w-auto lg:block"
-                      src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=500"
+                      className="hidden h-12 w-auto lg:block rounded-full"
+                      src={MdvLogo}
                       alt="Your Company"
                     />
                   </div>

@@ -46,7 +46,7 @@ function VATPenalty() {
                 penalties in the UAE. A taxpayer can apply for a VAT review and
                 apply for an exemption from the VAT penalty.
                 <br />
-                <br /> Our Bestax chartered accountants and tax advisors in
+                <br /> Our MDV & CO Associates chartered accountants and tax advisors in
                 Dubai provide exclusive VAT services in all major sectors. Our
                 priority is to protect our local and international clients from
                 large fines and penalties. We understand the VAT waiver is
@@ -235,10 +235,10 @@ function VATPenalty() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                How Can BestaxCA Help You to Waive The Fine?
+                How Can MDV & CO Associates Help You to Waive The Fine?
               </h1>
               <p>
-                BestaxCA is one of the leading accounting and tax advisory firms
+                MDV & CO Associates is one of the leading accounting and tax advisory firms
                 in Dubai, United Arab Emirates. Our team of chartered
                 accountants assists businesses in the relevant VAT provisions as
                 per the tax procedure law. We will do everything in our power to
@@ -252,9 +252,9 @@ function VATPenalty() {
                 mistake can result in the claim being rejected or delayed. We
                 look into your financial records to complicate the legal
                 procedure for cancelling the penalty. So take advantage of
-                BestaxCA and waive the VAT penalties and interest that have
+                MDV & CO Associates and waive the VAT penalties and interest that have
                 accrued. Any individual or company can contact us for more
-                information: Email: info@bestaxca.com
+                information: Email: info@MDV & CO Associates.com
               </p>
             </div>
           </div>

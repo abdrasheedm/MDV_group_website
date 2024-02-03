@@ -181,11 +181,11 @@ function ExciseTaxRefund() {
             </div>
             <div>
               <h1 className="text-primary text-xl my-5">
-                What does BestaxCA do for you?
+                What does MDV & CO Associates do for you?
               </h1>
 
               <p>
-                BestaxCA’s tax experts can help you at every stage of the excise
+                MDV & CO Associates’s tax experts can help you at every stage of the excise
                 duty reimbursement process under the 2017 Decree Law. Our tax
                 advisors will conduct an in-depth analysis of your business and
                 financial transactions. We will calculate the amount of tax you

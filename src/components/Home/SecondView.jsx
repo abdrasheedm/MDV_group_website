@@ -9,22 +9,22 @@ function SecondView() {
       <div className="container mx-auto py-20">
         <div className="grid grid-cols-5 p-10 my-28 bg-gray-300 bg-opacity-30">
           <div className="col-span-6 md:col-span-3 pb-5">
-            <h1 className=""><span className="border-b-4 border-secondary">Welcome to BESTAX</span></h1>
+            <h1 className=""><span className="border-b-4 border-secondary">Welcome to MDV & CO ASSOCIATES</span></h1>
             <p className="text-sm md:text-base">
               A trusted and top-rated financial and business consulting firm
-              with a commanding presence in Dubai and the Canada/US region. We
+              with a commanding presence in Dubai. We
               specialize in a comprehensive range of services, including
               business setup in Dubai/UAE, tax advisory, auditing, accounting &
               bookkeeping, AML Compliance, VAT registration, VAT return filing,
               excise tax registration, ICV certification, stock audit, and
               corporate tax registration and planning solutions, among other
-              essential business services. At BestaxCA, we are dedicated to
+              essential business services. At MDV & CO Associates, we are dedicated to
               helping both national and international clients unlock their full
               potential by enhancing efficiency, compliance, growth, and
               profitability. Our team of seasoned experts takes immense pride in
               delivering exceptional, timely results, ensuring your business
               stays ahead in today’s competitive landscape. Experience the
-              Bestax advantage and let us calculate the best opportunities for
+              MDV & CO Associates advantage and let us calculate the best opportunities for
               you.
             </p>
           </div>

@@ -171,7 +171,7 @@ function AffordableAccountigFirm() {
               </h1>
               <p>
                 The CFO keeps track of daily production volumes, damaged or lost
-                products, and expenses. BestaxCA’s accountants examine pricing
+                products, and expenses. MDV & CO Associates’s accountants examine pricing
                 plans, policies, and net income for in-depth analysis. The CFO
                 controls costs by improving the production cycle and introducing
                 new working strategies.
@@ -191,11 +191,11 @@ function AffordableAccountigFirm() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                Why choose Bestax Chartered Accountants?
+                Why choose MDV & CO Associates Chartered Accountants?
               </h1>
               <p>
                 Do you spend countless hours managing the accounts, balancing
-                cash flows, and preparing financial statements? If so, Bestax
+                cash flows, and preparing financial statements? If so, MDV & CO Associates
                 Chartered Accountants are the perfect solution to all these
                 problems. We are known as a leading accounting and tax advisory
                 firm in Dubai, UAE. Our group offers exclusive CFO services to

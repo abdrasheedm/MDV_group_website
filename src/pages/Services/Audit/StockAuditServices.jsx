@@ -147,10 +147,10 @@ function StockAuditService() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                Why Choose BestaxCA
+                Why Choose MDV & CO Associates
               </h1>
               <p>
-                Bestax chartered accountants and business consultants help small
+                MDV & CO Associates chartered accountants and business consultants help small
                 and large businesses with accounting and auditing services in
                 Dubai. We are associated with the country’s top auditors to help
                 you with Tax Audit, Internal Audit, liquidation audits and
@@ -163,7 +163,7 @@ function StockAuditService() {
                 We are proficient in verifying your physical stock against the
                 stock recorded in the software. Where necessary, they classify
                 and re-categorize your stock, identify gaps in your current
-                stock management and recommend the best solutions. BestaxCA
+                stock management and recommend the best solutions. MDV & CO Associates
                 helps you to better understand your stock portfolio as well as
                 to properly reconcile your stock records. Get the best inventory
                 audit services in Dubai and make sure your inventory is accurate

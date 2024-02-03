@@ -20,16 +20,16 @@ function FirstView() {
           </h1>
 
           <h3 className="text-secondary text-xl font-medium">
-            Bestax... Calculating The Best Opportunities For You For 19+ Years
+            MDV & CO Associates... Calculating The Best Opportunities For You...
           </h3>
 
           <p>
-            Unlock your business's potential with Bestax Chartered Accountants,
-            a renowned consultancy firm with strong presence in Canada and the
+            Unlock your business's potential with MDV & CO Associates Chartered Accountants,
+            a renowned consultancy firm in
             UAE. Our industry-leading response times and exceptional customer
             service testify to our dedication to creating a seamless and
             stress-free experience. Elevate your financial success by partnering
-            with Bestax today!
+            with MDV & CO Associates today!
           </p>
           </div>
           <div className="grid grid-cols-4">

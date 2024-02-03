@@ -97,10 +97,10 @@ function ManagementAccounting() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                How can Bestax Chartered Accountants help you?
+                How can MDV & CO Associates Chartered Accountants help you?
               </h1>
               <p>
-                Bestax Chartered Accountants is a group of professionals who
+                MDV & CO Associates Chartered Accountants is a group of professionals who
                 assist companies with management accounting services in Dubai,
                 Sharjah, Abu Dhabi, Ajman, and other Emirates. Our accountants
                 will conduct a feasibility analysis of your company, assess
@@ -120,7 +120,7 @@ function ManagementAccounting() {
                 In today’s business environment, a combination of management and
                 accounting services is required. We offer a wide range of
                 management accounting services to local and international
-                clients at BestaxCA. You don’t have to worry about
+                clients at MDV & CO Associates. You don’t have to worry about
                 administrative penalties from the authorities because we promise
                 to protect you from them. We are here to help you in these areas
                 and handle them as required.
@@ -145,10 +145,10 @@ function ManagementAccounting() {
                 Why choose us for your accounting solutions?
               </h1>
               <p>
-                BestaxCA is one of the most trusted and experienced accounting
+                MDV & CO Associates is one of the most trusted and experienced accounting
                 firms in the UAE. Over the years, we have helped organizations
                 across various industries with management accounting services in
-                Dubai. It is quite clear why BestaxCA is the best choice as our
+                Dubai. It is quite clear why MDV & CO Associates is the best choice as our
                 consultants are very well-versed in the implementation of
                 regulatory provisions. There is no denying that we have a
                 flawless process to assist entities in the free zones and the

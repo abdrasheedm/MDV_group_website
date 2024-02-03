@@ -222,14 +222,14 @@ function EconomicSubstanceRegulation() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                How can BestaxCA help you with ESR compliance?
+                How can MDV & CO Associates help you with ESR compliance?
               </h1>
               <p>
-                BestaxCA chartered accountants and consultants specialize in
+                MDV & CO Associates chartered accountants and consultants specialize in
                 providing ESR services in Dubai, UAE. The team of experts helps
                 you with in-depth knowledge of the relevant authorities and
                 protects your business from any kind of penalties. Here are some
-                of the benefits of choosing BestaxCA for your economic substance
+                of the benefits of choosing MDV & CO Associates for your economic substance
                 regulation application:
               </p>
               <br />

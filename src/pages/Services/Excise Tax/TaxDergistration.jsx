@@ -196,11 +196,11 @@ function ExciseTaxDeregistration() {
             </div>
             <div>
               <h1 className="text-primary text-xl my-5">
-                BestaxCA excise tax specialists in Dubai
+                MDV & CO Associates excise tax specialists in Dubai
               </h1>
 
               <p>
-                Bestax certified accountants and tax consultants in Dubai are
+                MDV & CO Associates certified accountants and tax consultants in Dubai are
                 specialists in excise tax services in accordance with FTA
                 standards. The qualified consultants have extensive experience
                 in various major industries, which is why they always provide
