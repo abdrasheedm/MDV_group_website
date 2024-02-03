@@ -24,7 +24,7 @@ function VATRefund() {
                 activities. A registered business pays and collects tax on sales
                 and purchases during a given tax period. Often its input VAT is
                 higher than its output VAT, and the business can then claim a
-                VAT refund. Our Bestax Chartered Accountants and tax advisors
+                VAT refund. Our MDV & CO Associates Chartered Accountants and tax advisors
                 provide excellent VAT refund services in Dubai, Sharjah, Abu
                 Dhabi, Ajman, and other Emirates.
               </p>
@@ -216,7 +216,7 @@ function VATRefund() {
               </h1>
               <p>
                 Businesses operating in the UAE can avoid fines and penalties by
-                ensuring their records are VAT compliant. Bestax chartered
+                ensuring their records are VAT compliant. MDV & CO Associates chartered
                 accountants and VAT consultants provide a remarkable and
                 guaranteed VAT refund service in Dubai. Our team of tax experts
                 review, verify and calculate your input and output tax whether

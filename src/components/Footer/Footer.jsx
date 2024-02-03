@@ -17,7 +17,7 @@ function Footer() {
             <div className="col-span-6 md:col-span-3 lg:col-span-2  m-5 px-2">
               <h3 className="text-2xl text-secondary">About Us</h3>
               <p>
-                Bestax Chartered Accountants is a leading financial consultancy
+                MDV & CO Associates Chartered Accountants is a leading financial consultancy
                 and business advisory firm in the heart of Dubai, Business Bay.
                 We strive to deliver a hundred percent on every tax advisory,
                 auditing, accounting & bookkeeping, and other financial service.{" "}
@@ -37,20 +37,20 @@ function Footer() {
               <h3 className="text-2xl text-secondary">Office Address</h3>
               <div className="mb-3">
                 <div className="flex">
-                <i class="fa-solid fa-location-dot m-3 text-secondary"></i>
-                  <p>Office 804, Park Lane Tower, Business Bay Dubai, UAE</p>
+                  <i class="fa-solid fa-location-dot m-3 text-secondary"></i>
+                  <p>Dubai, United Arab Emirates</p>
                 </div>
               </div>
               <div className="mb-3">
                 <div className="flex">
-                <i class="fa-solid fa-phone mx-3 mt-1 text-secondary"></i>
-                  <p>Mobile : <span>+91 7306 600 306</span></p>
+                  <i class="fa-solid fa-phone mx-3 mt-1 text-secondary"></i>
+                  <p className=""><span>+971 56 453 3568 </span><br></br><span>+971 56 746 2132</span></p>
                 </div>
               </div>
               <div className="mb-3">
                 <div className="flex">
-                <i class="fa-sharp fa-solid fa-envelope mx-3 mt-1 text-secondary"></i>
-                  <p>rasheed@gmail.com</p>
+                  <i class="fa-sharp fa-solid fa-envelope mx-3 mt-1 text-secondary"></i>
+                  <p>mdv.associatesae@gmail.com</p>
                 </div>
               </div>
             </div>
@@ -58,7 +58,7 @@ function Footer() {
         </div>
       </div>
       <div className="bg-primary text-white text-center p-5">
-        <p>© 2023 Bestaxca, All Rights are Reserved.</p>
+        <p>© 2023 MDV & CO Associates, All Rights are Reserved.</p>
       </div>
     </div>
   );

@@ -168,7 +168,7 @@ function VATVolantaryDisclosure() {
                 and omissions in their VAT return/refund, this is an excellent
                 opportunity to notify the authorities before the FTA approaches
                 you. In this situation, you can hire our VAT consultants to
-                avoid penalties. Bestax Chartered Accountants and VAT
+                avoid penalties. MDV & CO Associates Chartered Accountants and VAT
                 consultants in Dubai will help you prepare and submit your
                 application for voluntary disclosure of VAT.
                 <br />

@@ -164,7 +164,7 @@ function ExciseTaxPenaltyReconsideration() {
               </h1>
 
               <p>
-                Over the years, Bestax chartered accountants and tax advisors
+                Over the years, MDV & CO Associates chartered accountants and tax advisors
                 have helped individuals and businesses comply with tax law. We
                 are a team of leading accounting and advisory firms in the heart
                 of the UAE, Dubai. Our dedicated tax consultants assist clients

@@ -203,12 +203,12 @@ function VATReturnFiling() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                BestaxCA helps businesses with their VAT returns
+                MDV & CO Associates helps businesses with their VAT returns
               </h1>
               <p>
                 If you are worried about completing your VAT return in
-                accordance with FTA standards, then BestaxCA is the ideal
-                solution. BestaxCA has a dedicated team of financial advisors
+                accordance with FTA standards, then MDV & CO Associates is the ideal
+                solution. MDV & CO Associates has a dedicated team of financial advisors
                 and VAT experts in Dubai. We offer a wide range of VAT services
                 such as VAT registration, VAT return filing, VAT refunds, VAT
                 de-registration, VAT pre-inspection, VAT advice in the UAE, VAT

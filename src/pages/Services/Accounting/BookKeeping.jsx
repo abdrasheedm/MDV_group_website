@@ -30,7 +30,7 @@ function AccountingAndBookKeeping() {
                 difficult for ordinary accountants to implement International
                 Financial Reporting Standards (IFRS) perfectly. The solution is
                 to outsource these expert services to achieve long-term goals.
-                BESTAX Chartered Accountant is regarded as one of the leading
+                MDV & CO ASSOCIATES Chartered Accountant is regarded as one of the leading
                 accounting and bookkeeping firms in Dubai, with a team of highly
                 qualified financial advisors to help you with complex projects.
               </p>
@@ -64,7 +64,7 @@ function AccountingAndBookKeeping() {
               </h1>
               <h4 className="text-lg font-semibold">Onsite Accounting</h4>
               <p>
-                Bestax chartered accountants oversee the day-to-day accounting
+                MDV & CO Associates chartered accountants oversee the day-to-day accounting
                 operations of your business and supervise teams to meet
                 financial targets. Depending on your business requirements and
                 the number of transactions, our qualified accountants may visit
@@ -73,7 +73,7 @@ function AccountingAndBookKeeping() {
               </p>
               <h4 className="text-lg font-semibold">Accounting Supervision</h4>
               <p>
-                Bestax chartered accountants oversee your company’s day-to-day
+                MDV & CO Associates chartered accountants oversee your company’s day-to-day
                 accounting transactions and monitor teams to meet financial
                 targets. Depending on your business requirements and the number
                 of transactions, our qualified chartered accountants may visit
@@ -129,7 +129,7 @@ function AccountingAndBookKeeping() {
             </div>
             <div>
               <h1 className="text-primary text-xl my-5">
-                Why should you Choose BESTAX CA?
+                Why should you Choose MDV & CO ASSOCIATES CA?
               </h1>
               <h4 className="text-lg font-semibold">Competitive prices</h4>
               <p className="">
@@ -153,7 +153,7 @@ function AccountingAndBookKeeping() {
               </p>
               <h4 className="text-lg font-semibold">Fast And Accurate</h4>
               <p className="">
-                Bestax Accountants promise a prompt response in at least one
+                MDV & CO Associates Accountants promise a prompt response in at least one
                 working day or less. They will also provide you with honest and
                 top-notch advice according to your business type in the UAE.
               </p>

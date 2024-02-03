@@ -31,7 +31,7 @@ function InternalAduditService() {
                 compliance laws to avoid any future penalties. If you want to
                 follow standardized internal audit services in Dubai, you can
                 hire expert auditors who can provide you with certified
-                assistance and guide you in all your financial matters. Bestax
+                assistance and guide you in all your financial matters. MDV & CO Associates
                 Chartered Accountants is one of the leading firms for internal
                 audit services in Dubai, UAE that provides you with the best
                 consultancy to shape the future of your company.
@@ -42,7 +42,7 @@ function InternalAduditService() {
                 Internal Audit Firms Service Model
               </h1>
               <p>
-                Bestax Chartered Accountants operates under the Internal Audit
+                MDV & CO Associates Chartered Accountants operates under the Internal Audit
                 Methodology (IAM), which includes shared and outsourced audit
                 services in the UAE. The choice of approach depends on the
                 client’s ability to improve risk control.
@@ -83,7 +83,7 @@ function InternalAduditService() {
                 business in the United Arab Emirates and want to perfectly
                 comply with high international standards, it is essential to use
                 internal audit consulting services in Dubai, Sharjah, or any
-                other emirate. BESTAX CA has a team of highly-qualified and
+                other emirate. MDV & CO ASSOCIATES CA has a team of highly-qualified and
                 trained chartered accountants readily available to meet your
                 audit requirements such as those mentioned below:
               </p>
@@ -158,7 +158,7 @@ function InternalAduditService() {
                 Comprehensive Internal Audit Improves Risk Performance
               </h1>
               <p>
-                BESTAX CA and member auditors expertly review your accounting
+                MDV & CO ASSOCIATES CA and member auditors expertly review your accounting
                 controls to verify weaknesses in existing operations. Here are
                 the features of our internal audit firms that are sure to help
                 you mitigate your internal control risks.

@@ -192,7 +192,7 @@ function CRMImplementationAndTraining() {
                 latest version.
                 <br />
                 <br />
-                By using certified consultants at BestaxCA, you know you are
+                By using certified consultants at MDV & CO Associates, you know you are
                 working with people who understand the software inside and out.
               </p>
             </div>

@@ -202,10 +202,10 @@ function AntiMoneyLaundering() {
 
             <div>
               <h1 className="text-primary text-3xl my-10">
-                BestaxCA plays a key role in AML compliance in Dubai
+                MDV & CO Associates plays a key role in AML compliance in Dubai
               </h1>
               <p>
-                Bestax Chartered Accountants always take satisfaction in
+                MDV & CO Associates Chartered Accountants always take satisfaction in
                 improving your business’s compliance in Dubai to ensure that you
                 do not get into trouble. Our AML professionals monitor client
                 transactions and report suspicious financial activities,
@@ -217,14 +217,14 @@ function AntiMoneyLaundering() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                How do Bestax Chartered Accountants fight AML?
+                How do MDV & CO Associates Chartered Accountants fight AML?
               </h1>
               <p>
-                Bestax Chartered Accountants fully understand the implications
+                MDV & CO Associates Chartered Accountants fully understand the implications
                 of money laundering in the UAE market. Therefore, it provides
                 quality AML compliance services in compliance with Dubai,
                 Sharjah, and UAE regulations. There are some proven tactics that
-                BestaxCA uses to combat money laundering:
+                MDV & CO Associates uses to combat money laundering:
               </p>
             </div>
             <div>
@@ -246,7 +246,7 @@ function AntiMoneyLaundering() {
                 Structured AML training
               </h1>
               <p>
-                Bestax Chartered Accountants not only provide advice on AML
+                MDV & CO Associates Chartered Accountants not only provide advice on AML
                 compliance but also enhance your managers’ and employees’
                 knowledge of Federal Decree-law, anti-money laundering laws and
                 regulations, Customer Due Diligence (CDD), and Enhanced Due

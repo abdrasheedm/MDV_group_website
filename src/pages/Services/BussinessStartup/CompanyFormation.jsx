@@ -17,7 +17,7 @@ function CompanyFormation() {
                 Company Formation Services
               </h1>
               <p>
-                BestaxCA has an experienced team of professionals specializing
+                MDV & CO Associates has an experienced team of professionals specializing
                 in providing advice on setting up the right type of business for
                 your needs. Our consultants develop specific services to help
                 business owners profitably start a business in your desired
@@ -27,7 +27,7 @@ function CompanyFormation() {
             <div>
               <h1 className="text-primary text-3xl my-10">Who we are</h1>
               <p>
-                TBestaxCA is a business consultancy firm that provides expert
+                TMDV & CO Associates is a business consultancy firm that provides expert
                 advice on setting up new businesses/enterprises across the UAE.
                 Our strength lies in providing solutions to clients who are
                 exploring new business opportunities, understanding legal
@@ -60,7 +60,7 @@ function CompanyFormation() {
                 information available about any country, especially the business
                 environment, but understanding the nuances of the business
                 culture; local government, and policies is very important when
-                investing money in a foreign country. BestaxCA solves exactly
+                investing money in a foreign country. MDV & CO Associates solves exactly
                 this problem in your chosen country. We specialize in this field
                 and offer turnkey solutions for setting up a business
                 enterprise. Our services include a methodology that takes care
@@ -75,7 +75,7 @@ function CompanyFormation() {
                 Advantages of using company formation services
               </h1>
               <p>
-                BestaxCA procedures are highly dependent on the specific
+                MDV & CO Associates procedures are highly dependent on the specific
                 territory and country. We are well versed in company formation
                 laws and regulations. We can help you set up:
               </p>
@@ -120,7 +120,7 @@ function CompanyFormation() {
                 Legal procedures and documentation for setting up a company.
               </h1>
               <p>
-                To register a company, the BestaxCA team takes care of every
+                To register a company, the MDV & CO Associates team takes care of every
                 detail, as well as the accuracy and completeness of the legal
                 and company formation documents. As part of our business
                 formation services, we duly carry out the following procedures:

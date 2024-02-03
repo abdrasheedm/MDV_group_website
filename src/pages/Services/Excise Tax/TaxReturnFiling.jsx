@@ -24,7 +24,7 @@ function ExciseTaxReturnFiling() {
                 required to register for excise duty. Therefore, according to
                 the tax laws and regulations, the subject is also required to
                 submit an accurate excise duty declaration filed in the UAE.
-                BestaxCA provides excellent services to ensure that the tax
+                MDV & CO Associates provides excellent services to ensure that the tax
                 return is submitted on time and with the least chance of error.
                 We understand and implement all the legal provisions required
                 for filing tax returns in the UAE:
@@ -158,7 +158,7 @@ function ExciseTaxReturnFiling() {
               <h1 className="text-primary text-xl my-5">Why choose us?</h1>
 
               <p>
-                BestaxCA has a team of well-qualified and certified tax advisors
+                MDV & CO Associates has a team of well-qualified and certified tax advisors
                 in Dubai. We provide professional excise and VAT advisory
                 services to local and international clients. To make your
                 accounting compliant with excise tax requirements, we offer a

@@ -220,7 +220,7 @@ function FinancialFeasibilyStudy() {
                 How do our feasibility studies work?
               </h1>
               <p>
-                BestaxCA offers exclusive financial feasibility services in
+                MDV & CO Associates offers exclusive financial feasibility services in
                 Dubai, Sharjah, Abu Dhabi, and across the UAE. Our team has
                 excellent accounting expertise and takes a critical look at the
                 influencing factors. When we undertake a feasibility analysis of
@@ -235,7 +235,7 @@ function FinancialFeasibilyStudy() {
                 confidence to participate in the project.
                 <br />
                 <br />
-                Contact Bestax Chartered Accountants and Consultants for
+                Contact MDV & CO Associates Chartered Accountants and Consultants for
                 feasibility and financial forecasting services in the UAE.
               </p>
             </div>

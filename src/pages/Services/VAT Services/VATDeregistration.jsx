@@ -204,18 +204,18 @@ function VATDeregistration() {
 
             <div>
               <h1 className="text-primary text-3xl my-10">
-                BestaxCA Provides VAT Deregistration in Dubai
+                MDV & CO Associates Provides VAT Deregistration in Dubai
               </h1>
               <p>
                 VAT-registered companies need to know how to deregister for VAT,
                 complying with all UAE tax rules. Many times, Taxpayers miss the
                 application deadline or submit inaccurate information, which
                 leads to unnecessary VAT penalties in the UAE. In such a
-                situation, our Bestax chartered accountants and VAT consultants
+                situation, our MDV & CO Associates chartered accountants and VAT consultants
                 in Dubai offer professional VAT registration as well as VAT
                 exclusion services in accordance with the standards. Our tax
                 experts not only advise taxable businesses but also check all
-                your VAT documents. BestaxCA helps businesses to carry out
+                your VAT documents. MDV & CO Associates helps businesses to carry out
                 error-free VAT de-registration in UAE without any penalties.
                 Contact us!
               </p>

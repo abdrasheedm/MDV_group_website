@@ -197,15 +197,15 @@ function BankReconciliationStatementService() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                BestaxCA: Bank Reconciliation Statement Services
+                MDV & CO Associates: Bank Reconciliation Statement Services
               </h1>
               <p>
-                Bestax chartered accountants and consultants offer bank
+                MDV & CO Associates chartered accountants and consultants offer bank
                 statement reconciliation services in the UAE. Our team will
                 identify any differences or similarities between your account
                 balance and the corresponding bank statement. Businesses can
                 rely on us to stop fraud and legal problems so they can focus
-                fully on their business goals. With BestaxCA’s bookkeeping and
+                fully on their business goals. With MDV & CO Associates’s bookkeeping and
                 accounting services, you’ll get more than just accurate
                 financial statements. Plus, our reconciliation accountants
                 ensure compliance with regulatory requirements. Let us know how

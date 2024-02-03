@@ -55,7 +55,7 @@ function ExciseTaxImplementation() {
                 Our excise duty implementation in Dubai
               </h1>
               <p>
-                BestaxCA offers a range of excise duty implementation services
+                MDV & CO Associates offers a range of excise duty implementation services
                 in the UAE. The aim is to ensure that your company does not
                 receive a penalty from the federal tax authority for
                 non-compliance with tax laws. Below we will look at our excise
@@ -84,7 +84,7 @@ function ExciseTaxImplementation() {
               </h1>
               <p className="">
                 If you sell excisable goods, you must pay the correct amount of
-                excise duty to the UAE government. With BestaxCA, you can
+                excise duty to the UAE government. With MDV & CO Associates, you can
                 determine which of your products are exempt from excise duty,
                 and the applicable excise duty rate and calculate the exact
                 amount of excise duty. We will check the accuracy of your
@@ -123,7 +123,7 @@ function ExciseTaxImplementation() {
                 is capable of managing and calculating excisable goods. If there
                 seems to be a problem, our excise consultants will direct you to
                 the most appropriate accounting software for your business.
-                Bestax chartered accountants are connected to leading accounting
+                MDV & CO Associates chartered accountants are connected to leading accounting
                 software to calculate your excise duty perfectly. We are an
                 authorized partner of Zoho to efficiently generate tax invoices,
                 stock management reports, reconciliation reports, and other
@@ -136,7 +136,7 @@ function ExciseTaxImplementation() {
               </h1>
 
               <p>
-                BestaxCA professionals prepare and verify your excise tax report
+                MDV & CO Associates professionals prepare and verify your excise tax report
                 in accordance with UAE tax laws. We prepare your excise returns,
                 refunds, voluntary disclosures, and reconciliations. For each
                 entry, our tax experts ensure excise compliance and prepare an
@@ -151,7 +151,7 @@ function ExciseTaxImplementation() {
 
               <p>
                 Employee training is a critical step in ensuring the success of
-                your excise journey. Bestax chartered accountants and tax
+                your excise journey. MDV & CO Associates chartered accountants and tax
                 consultants offer excise tax training and awareness programs. We
                 strategically develop modules for excise implementation in the
                 UAE to help companies comply with the latest excise laws. Excise
@@ -182,11 +182,11 @@ function ExciseTaxImplementation() {
             </div>
             <div>
               <h1 className="text-primary text-xl my-5">
-                BestaxCA excise consultants
+                MDV & CO Associates excise consultants
               </h1>
 
               <p>
-                BestaxCA always welcomes clients for professional excise
+                MDV & CO Associates always welcomes clients for professional excise
                 implementation and training in the UAE. In line with FTA
                 guidelines, our experts provide policies that employees can use
                 to successfully implement excise laws. With our diverse

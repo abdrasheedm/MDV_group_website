@@ -176,7 +176,7 @@ function ICVCertification() {
             </div>
             <div>
               <h1 className="text-primary text-4xl my-10">
-                BestaxCA ICV Improvement Plan
+                MDV & CO Associates ICV Improvement Plan
               </h1>
               <p>
                 In recent years, many companies have already applied for the
@@ -189,7 +189,7 @@ function ICVCertification() {
                 scores than in the previous financial year.
                 <br />
                 <br />
-                BestaxCA will help you in this situation as we are chartered
+                MDV & CO Associates will help you in this situation as we are chartered
                 accountants and understand all the expectations of the
                 certifying bodies. We will provide expert opinions on how to
                 improve operational performance and update your accounting
@@ -201,7 +201,7 @@ function ICVCertification() {
             <div>
               <h1 className="text-primary text-4xl my-10">Why choose us?</h1>
               <p>
-                Bestax Chartered Accountants and Financial Advisors serve a
+                MDV & CO Associates Chartered Accountants and Financial Advisors serve a
                 variety of business sectors in the ICV certification process.
                 Our team of professionals helps suppliers, manufacturers, SMEs,
                 large companies, and entrepreneurs to participate in the
