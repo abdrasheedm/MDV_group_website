@@ -14,7 +14,7 @@ function SecondView() {
               A trusted and top-rated financial and business consulting firm
               with a commanding presence in UAE. We
               specialize in a comprehensive range of services, including
-              business setup in UAE/UAE, tax advisory, auditing, accounting &
+              business setup in UAE, tax advisory, auditing, accounting &
               bookkeeping, AML Compliance, VAT registration, VAT return filing,
               excise tax registration, ICV certification, stock audit, and
               corporate tax registration and planning solutions, among other
