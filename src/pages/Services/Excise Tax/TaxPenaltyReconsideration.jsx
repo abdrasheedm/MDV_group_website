@@ -25,7 +25,7 @@ function ExciseTaxPenaltyReconsideration() {
                 penalized. However, the FTA provides for the possibility to
                 apply for a review of the excise duty penalty if the taxpayer is
                 not satisfied with the authority’s decision. This is a complex
-                process, so our tax experts in Dubai can guide you through the
+                process, so our tax experts in UAEcan guide you through the
                 review procedure in accordance with the FTA guidelines.
               </p>
             </div>
@@ -116,7 +116,7 @@ function ExciseTaxPenaltyReconsideration() {
                 taken in your case. One of the most important things is that the
                 application and all evidence must be in Arabic and not in
                 English, in accordance with the FTA guidelines. You can
-                outsource to tax experts in Dubai who help national or
+                outsource to tax experts in UAEwho help national or
                 international clients deal with administrative penalties with
                 the least likelihood of error.
               </p>
@@ -167,7 +167,7 @@ function ExciseTaxPenaltyReconsideration() {
                 Over the years, MDV & CO Associates chartered accountants and tax advisors
                 have helped individuals and businesses comply with tax law. We
                 are a team of leading accounting and advisory firms in the heart
-                of the UAE, Dubai. Our dedicated tax consultants assist clients
+                of the UAE, UAE. Our dedicated tax consultants assist clients
                 in excise registration/registration, excise returns filing,
                 excise refunds, excise enforcement, and excise compliance
                 services across the Emirates. We guarantee that regulatory

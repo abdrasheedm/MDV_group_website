@@ -14,7 +14,7 @@ function AffordableAccountigFirm() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Outsourcing for CFO in Dubai, UAE
+                Outsourcing for CFO in UAE, UAE
               </h1>
               <p>
                 Globalization has made doing business in the UAE more complex
@@ -28,7 +28,7 @@ function AffordableAccountigFirm() {
                 <br />
                 You can outsource your CFO services and get rid of your
                 accounting and financial problems. Our renowned accountants and
-                consultants provide cost-effective CFO services in Dubai,
+                consultants provide cost-effective CFO services in UAE,
                 Sharjah, Abu Dhabi, Ajman, and other emirates across UAE. Let’s
                 find out more about our CFO advisory services:
               </p>
@@ -198,7 +198,7 @@ function AffordableAccountigFirm() {
                 cash flows, and preparing financial statements? If so, MDV & CO Associates
                 Chartered Accountants are the perfect solution to all these
                 problems. We are known as a leading accounting and tax advisory
-                firm in Dubai, UAE. Our group offers exclusive CFO services to
+                firm in UAE, UAE. Our group offers exclusive CFO services to
                 small and medium enterprises as well as large companies across
                 the UAE. We provide part-time/full-time CFO services,
                 preferred/full-time CFO services, virtual CFO services, interim

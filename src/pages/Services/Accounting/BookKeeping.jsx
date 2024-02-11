@@ -6,7 +6,7 @@ function AccountingAndBookKeeping() {
     <div className="mb-28">
       <div className="bg-primary py-28 px-20 mt-10">
         <h1 className="text-white text-center text-5xl">
-          Accounting Services In Dubai, UAE Bookkeeping Firm
+          Accounting Services In UAE, UAE Bookkeeping Firm
         </h1>
       </div>
       <div className="container mx-auto">
@@ -14,10 +14,10 @@ function AccountingAndBookKeeping() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Accounting and Bookkeeping Services In Dubai
+                Accounting and Bookkeeping Services In UAE
               </h1>
               <p>
-                Bookkeeping and Accounting services in Dubai play an important
+                Bookkeeping and Accounting services in UAEplay an important
                 role in every industry to record financial transactions,
                 payroll, taxes, invoices and more. There is very little
                 difference between accounting and bookkeeping services, but both
@@ -31,7 +31,7 @@ function AccountingAndBookKeeping() {
                 Financial Reporting Standards (IFRS) perfectly. The solution is
                 to outsource these expert services to achieve long-term goals.
                 MDV & CO ASSOCIATES Chartered Accountant is regarded as one of the leading
-                accounting and bookkeeping firms in Dubai, with a team of highly
+                accounting and bookkeeping firms in UAE, with a team of highly
                 qualified financial advisors to help you with complex projects.
               </p>
             </div>
@@ -43,7 +43,7 @@ function AccountingAndBookKeeping() {
                 In the United Arab Emirates, regulatory compliance is increasing
                 by the day and no business owner wants to incur hefty fines for
                 breaking the law. According to the UAE Commercial Companies Law,
-                every small or large company in Dubai must comply with IFRS and
+                every small or large company in UAEmust comply with IFRS and
                 IAS requirements to perfectly manage its financial affairs. In
                 addition, companies are obliged to keep adequate accounting
                 records for at least five years until the end of the financial
@@ -94,7 +94,7 @@ function AccountingAndBookKeeping() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                Our Bookkeeping Services in Dubai Workflow:
+                Our Bookkeeping Services in UAEWorkflow:
               </h1>
               <h4 className="text-lg font-semibold">
                 1) Understanding Your Business
@@ -133,7 +133,7 @@ function AccountingAndBookKeeping() {
               </h1>
               <h4 className="text-lg font-semibold">Competitive prices</h4>
               <p className="">
-                Best accounting and bookkeeping services in Dubai at minimal
+                Best accounting and bookkeeping services in UAEat minimal
                 charges but never compromise on the quality of service.
               </p>
               <h4 className="text-lg font-semibold">
@@ -207,7 +207,7 @@ function AccountingAndBookKeeping() {
                 other information for a company. This includes preparing the
                 balance sheet, a document that lists the assets, liabilities,
                 and capital of a business. Experienced accountants use
-                standardized Dubai accounting formulas to create these
+                standardized UAEaccounting formulas to create these
                 documents. Assets are things that a company owns, and
                 liabilities are items that it owes. Owner’s equity, on the other
                 hand, represents the amount of money that an owner has invested

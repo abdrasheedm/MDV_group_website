@@ -14,7 +14,7 @@ function ExciseTaxReturnFiling() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Excise Tax Return Filing Services In Dubai
+                Excise Tax Return Filing Services In UAE
               </h1>
               <p>
                 The excise duty on taxable units was introduced in October 2017
@@ -159,7 +159,7 @@ function ExciseTaxReturnFiling() {
 
               <p>
                 MDV & CO Associates has a team of well-qualified and certified tax advisors
-                in Dubai. We provide professional excise and VAT advisory
+                in UAE. We provide professional excise and VAT advisory
                 services to local and international clients. To make your
                 accounting compliant with excise tax requirements, we offer a
                 wide range of excise tax registration, deregistration, return

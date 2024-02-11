@@ -14,7 +14,7 @@ function ManagementAccounting() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Management accounting services in Dubai, UAE
+                Management accounting services in UAE, UAE
               </h1>
               <p>
                 Management accounting is an essential part of every small and
@@ -101,7 +101,7 @@ function ManagementAccounting() {
               </h1>
               <p>
                 MDV & CO Associates Chartered Accountants is a group of professionals who
-                assist companies with management accounting services in Dubai,
+                assist companies with management accounting services in UAE,
                 Sharjah, Abu Dhabi, Ajman, and other Emirates. Our accountants
                 will conduct a feasibility analysis of your company, assess
                 inaccuracies in management accounting, take corrective action
@@ -148,7 +148,7 @@ function ManagementAccounting() {
                 MDV & CO Associates is one of the most trusted and experienced accounting
                 firms in the UAE. Over the years, we have helped organizations
                 across various industries with management accounting services in
-                Dubai. It is quite clear why MDV & CO Associates is the best choice as our
+                UAE. It is quite clear why MDV & CO Associates is the best choice as our
                 consultants are very well-versed in the implementation of
                 regulatory provisions. There is no denying that we have a
                 flawless process to assist entities in the free zones and the

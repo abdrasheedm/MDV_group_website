@@ -14,13 +14,13 @@ function ICVCertification() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                In-Country Value – ICV Certification in Dubai, UAE
+                In-Country Value – ICV Certification in UAE, UAE
               </h1>
               <p>
                 Abu Dhabi National Oil Company (ADNOC) group companies
                 introduced the ICV certification program in November 2017. The
                 program was initiated by the UAE government to boost the
-                country’s economic growth. The ICV Certificate in Dubai, UAE,
+                country’s economic growth. The ICV Certificate in UAE, UAE,
                 aims to improve the sustainability of the industrial sector by
                 supporting the Ministry of Industry and Advanced Technology
                 (MoIAT).
@@ -107,7 +107,7 @@ function ICVCertification() {
                 get 1% or 100%. If you get a high score, you will get high
                 priority from the government when applying for tenders. To get
                 this competitive advantage, you need to outsource your
-                Accounting And Auditing Services in Dubai, UAE, and let them
+                Accounting And Auditing Services in UAE, UAE, and let them
                 handle the situation.
               </p>
             </div>
@@ -147,7 +147,7 @@ function ICVCertification() {
             </div>
             <div>
               <h1 className="text-primary text-4xl my-10">
-                How To Obtain An ICV Certificate In Dubai, UAE?
+                How To Obtain An ICV Certificate In UAE, UAE?
               </h1>
               <p>
                 ICV certification bodies in the UAE have approved this specific
@@ -169,7 +169,7 @@ function ICVCertification() {
               </p>
               <h4 className="text-lg font-semibold">4. Validation of forms</h4>
               <p>
-                The ICV certificate is signed and stamped in Dubai by
+                The ICV certificate is signed and stamped in UAEby
                 ADNOC-approved authorities and is valid for 14 months from the
                 date of issue.
               </p>

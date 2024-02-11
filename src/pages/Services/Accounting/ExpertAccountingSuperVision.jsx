@@ -213,7 +213,7 @@ function ExpertAccountingSupervisionService() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                MDV & CO Associates’s account monitoring services in Dubai
+                MDV & CO Associates’s account monitoring services in UAE
               </h1>
               <p>
                 MDV & CO Associates Chartered Accountants has a team of highly skilled,
@@ -221,7 +221,7 @@ function ExpertAccountingSupervisionService() {
                 well-qualified and certified by the world’s leading accounting
                 institutes. Their expertise covers all areas of accounting and
                 financial management. Our chartered accountants provide
-                professional accounting supervision services in Dubai, Sharjah,
+                professional accounting supervision services in UAE, Sharjah,
                 Abu Dhabi, Ajman, and other parts of the UAE. We oversee your
                 financial as well as managerial operations and fiscal
                 procedures, ensuring their proper execution. A member of our

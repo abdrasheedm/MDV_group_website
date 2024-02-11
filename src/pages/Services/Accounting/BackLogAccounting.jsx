@@ -14,7 +14,7 @@ function BackLogAccountingService() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Backlog Accounting Services in Dubai.
+                Backlog Accounting Services in UAE.
               </h1>
               <p>
                 A company operating in the UAE needs to focus on financial and
@@ -25,7 +25,7 @@ function BackLogAccountingService() {
                 <br />
                 <br />
                 MDV & CO Associates Chartered Accountants offers professional accounting
-                services in Dubai, Sharjah, Abu Dhabi, Ajman, and the other UAE
+                services in UAE, Sharjah, Abu Dhabi, Ajman, and the other UAE
                 Emirates. We provide superior quality services with 100%
                 guaranteed results to all our local and international clients.
                 Understand the importance and what we offer in terms of backlog
@@ -63,7 +63,7 @@ function BackLogAccountingService() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                The importance of accounting for defaults in Dubai
+                The importance of accounting for defaults in UAE
               </h1>
               <p>
                 The preparation of accounts receivable is very important for

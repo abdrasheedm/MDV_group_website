@@ -25,7 +25,7 @@ function ForensicAccountingService() {
                 involved in improper or illegal activities. An organization with
                 a complex structure is more likely to be involved in fraud and
                 therefore needs the services of experts to protect itself. We
-                provide quality forensic accounting services in Dubai, Sharjah,
+                provide quality forensic accounting services in UAE, Sharjah,
                 Ajman, Abu Dhabi, and all other countries in the UAE.
               </p>
             </div>
@@ -90,7 +90,7 @@ function ForensicAccountingService() {
               </h1>
               <p>
                 MDV & CO Associates Chartered Accountants is a group of professionals who
-                assist companies with management accounting services in Dubai,
+                assist companies with management accounting services in UAE,
                 Sharjah, Abu Dhabi, Ajman, and other Emirates. Our accountants
                 will conduct a feasibility analysis of your company, assess
                 inaccuracies in management accounting, take corrective action
@@ -137,7 +137,7 @@ function ForensicAccountingService() {
                 MDV & CO Associates is one of the most trusted and experienced accounting
                 firms in the UAE. Over the years, we have helped organizations
                 across various industries with management accounting services in
-                Dubai. It is quite clear why MDV & CO Associates is the best choice as our
+                UAE. It is quite clear why MDV & CO Associates is the best choice as our
                 consultants are very well-versed in the implementation of
                 regulatory provisions. There is no denying that we have a
                 flawless process to assist entities in the free zones and the

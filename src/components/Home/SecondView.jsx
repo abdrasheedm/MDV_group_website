@@ -12,9 +12,9 @@ function SecondView() {
             <h1 className=""><span className="border-b-4 border-secondary">Welcome to MDV & CO ASSOCIATES</span></h1>
             <p className="text-sm md:text-base">
               A trusted and top-rated financial and business consulting firm
-              with a commanding presence in Dubai. We
+              with a commanding presence in UAE. We
               specialize in a comprehensive range of services, including
-              business setup in Dubai/UAE, tax advisory, auditing, accounting &
+              business setup in UAE/UAE, tax advisory, auditing, accounting &
               bookkeeping, AML Compliance, VAT registration, VAT return filing,
               excise tax registration, ICV certification, stock audit, and
               corporate tax registration and planning solutions, among other
@@ -35,7 +35,7 @@ function SecondView() {
         <div className="flex justify-center">
         <div className="grid grid-cols-4 bg-primary my-20">
             <div className="col-span-4 md:col-span-1 mb-5 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
-                <h1>2500+</h1>
+                <h1>500+</h1>
                 <h3>Happy Clients</h3>
             </div>
             <div className="col-span-4 md:col-span-1 mb-5 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
@@ -47,7 +47,7 @@ function SecondView() {
                 <h3>Timely Response</h3>
             </div>
             <div className="col-span-4 md:col-span-1 mb-5 text-center bg-secondary bg-opacity-30 border-2 border-white shadow-2xl text-yellow-500">
-                <h1>35+</h1>
+                <h1>10+</h1>
                 <h3>Professional</h3>
             </div>
         </div>

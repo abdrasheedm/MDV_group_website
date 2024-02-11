@@ -6,7 +6,7 @@ function EconomicSubstanceRegulation() {
     <div className="mb-28">
       <div className="bg-primary py-28 px-20 mt-10">
         <h1 className="text-white text-center text-5xl">
-          Economic Substance Regulations Services In Dubai
+          Economic Substance Regulations Services In UAE
         </h1>
       </div>
       <div className="container mx-auto">
@@ -14,7 +14,7 @@ function EconomicSubstanceRegulation() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Economic Substance Regulations Services In Dubai
+                Economic Substance Regulations Services In UAE
               </h1>
               <p>
                 The economic substance framework applies to all companies
@@ -226,7 +226,7 @@ function EconomicSubstanceRegulation() {
               </h1>
               <p>
                 MDV & CO Associates chartered accountants and consultants specialize in
-                providing ESR services in Dubai, UAE. The team of experts helps
+                providing ESR services in UAE, UAE. The team of experts helps
                 you with in-depth knowledge of the relevant authorities and
                 protects your business from any kind of penalties. Here are some
                 of the benefits of choosing MDV & CO Associates for your economic substance
@@ -236,7 +236,7 @@ function EconomicSubstanceRegulation() {
               <ul className="list-disc ml-3">
                 <li>
                   Understanding your company and its scope to get economic
-                  substance regulation services in Dubai.
+                  substance regulation services in UAE.
                 </li>
                 <li>
                   Comprehensive assistance to help you meet your economic

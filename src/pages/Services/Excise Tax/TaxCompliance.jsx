@@ -25,7 +25,7 @@ function ExciseTaxCompliance() {
                 is always updating new reporting requirements on excise duty
                 compliance in the UAE. For this reason, companies recognize the
                 importance of the perfect implementation of excise duty laws and
-                regulations. Our tax consultants in Dubai will help you adapt to
+                regulations. Our tax consultants in UAEwill help you adapt to
                 the changing FTA regulatory landscape.
               </p>
             </div>
@@ -149,7 +149,7 @@ function ExciseTaxCompliance() {
                 penalties. Poor excise duty records can make it difficult for
                 registered businesses to register for excise duty, submit
                 declarations and obtain refunds. If you find yourself in a
-                similar situation, you can consult our tax experts in Dubai. Our
+                similar situation, you can consult our tax experts in UAE. Our
                 team maintains and amends your records in accordance with tax
                 laws, so take advantage of our best excise services in the UAE.
               </p>
@@ -163,7 +163,7 @@ function ExciseTaxCompliance() {
                 The accuracy and validation of your excise documents and other
                 related information are paramount to excise compliance. A small
                 error or omission of information can lead to fines and
-                penalties. That’s why our tax experts in Dubai check and prepare
+                penalties. That’s why our tax experts in UAEcheck and prepare
                 all your supporting documents in accordance with FTA guidelines,
                 so you can avoid unexpected compliance issues.
               </p>
@@ -185,12 +185,12 @@ function ExciseTaxCompliance() {
             </div>
             <div>
               <h1 className="text-primary text-xl my-5">
-                Outsourcing excise tax consultancy services in Dubai
+                Outsourcing excise tax consultancy services in UAE
               </h1>
 
               <p>
                 MDV & CO Associates is a licensed accounting and tax advisory firm in
-                Dubai. We understand the importance of excise duty compliance in
+                UAE. We understand the importance of excise duty compliance in
                 this fast-growing UAE market. Our tax consultants assist
                 companies with professional excise tax services in accordance
                 with tax procedure laws. You will be delighted with our

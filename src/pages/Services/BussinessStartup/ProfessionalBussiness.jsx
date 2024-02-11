@@ -26,7 +26,7 @@ function ProfessionalBussinessValuation() {
                 need to be convinced of the correct transaction value of their
                 assets. This is a complex task requiring expert advice and
                 support. That is why MDV & CO Associates offers business valuation services
-                in Dubai, Abu Dhabi, and across the region. Let’s get more
+                in UAE, Abu Dhabi, and across the region. Let’s get more
                 information about our business valuation services:
               </p>
             </div>
@@ -137,7 +137,7 @@ function ProfessionalBussinessValuation() {
                 It is not a bad idea to use a third-party professional chartered
                 accountant when preparing company valuation reports. Our team of
                 business consultants offers financial and accounting services in
-                Dubai, Sharjah, Abu Dhabi, Ajman and throughout the UAE.
+                UAE, Sharjah, Abu Dhabi, Ajman and throughout the UAE.
               </p>
             </div>
             <div>
@@ -145,7 +145,7 @@ function ProfessionalBussinessValuation() {
                 MDV & CO Associates: Business Valuation Advisory Services
               </h1>
               <p>
-                MDV & CO Associates chartered accountants in Dubai help individuals,
+                MDV & CO Associates chartered accountants in UAEhelp individuals,
                 businesses and investors determine the net worth of their
                 company. Some of the valuation services we offer include.
               </p>
@@ -162,11 +162,11 @@ function ProfessionalBussinessValuation() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                Business advisory services in Dubai
+                Business advisory services in UAE
               </h1>
               <p>
                 MDV & CO Associates is a group of well-qualified business consultants and
-                chartered accountants in Dubai. Our firm has been serving local
+                chartered accountants in UAE. Our firm has been serving local
                 and international businesses for more than a decade. We have
                 tailor-made solutions and methods to value your business and
                 shares. The valuation method is tailored depending on your

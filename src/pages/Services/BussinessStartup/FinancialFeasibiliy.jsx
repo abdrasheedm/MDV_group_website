@@ -14,7 +14,7 @@ function FinancialFeasibilyStudy() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Financial feasibility services in Dubai
+                Financial feasibility services in UAE
               </h1>
               <p>
                 Businesses today operate at a fast pace. Both customer demands
@@ -221,7 +221,7 @@ function FinancialFeasibilyStudy() {
               </h1>
               <p>
                 MDV & CO Associates offers exclusive financial feasibility services in
-                Dubai, Sharjah, Abu Dhabi, and across the UAE. Our team has
+                UAE, Sharjah, Abu Dhabi, and across the UAE. Our team has
                 excellent accounting expertise and takes a critical look at the
                 influencing factors. When we undertake a feasibility analysis of
                 a project, we first understand its business plan, business

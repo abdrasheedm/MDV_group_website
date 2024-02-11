@@ -27,7 +27,7 @@ function VATVolantaryDisclosure() {
                 <br />
                 This is a proactive approach to inform the FTA of any error in
                 tax payment or collection. Our well-qualified tax experts in
-                Dubai are committed to assisting businesses with filing VAT
+                UAEare committed to assisting businesses with filing VAT
                 voluntary disclosures and protecting them from unnecessary
                 penalties.
               </p>
@@ -55,7 +55,7 @@ function VATVolantaryDisclosure() {
                 <br />A VAT voluntary disclosure is an official form provided by
                 the Federal Tax Authority (FTA). It allows registered businesses
                 to notify the authorities of errors, inaccuracies, and changes
-                when filing a VAT return or claiming a VAT Refund in Dubai. The
+                when filing a VAT return or claiming a VAT Refund in UAE. The
                 taxable person must complete the “VAT211” together with all
                 supporting documents within 20 working days of discovering the
                 error. Here we will look at the FTA’s voluntary disclosure guide
@@ -169,7 +169,7 @@ function VATVolantaryDisclosure() {
                 opportunity to notify the authorities before the FTA approaches
                 you. In this situation, you can hire our VAT consultants to
                 avoid penalties. MDV & CO Associates Chartered Accountants and VAT
-                consultants in Dubai will help you prepare and submit your
+                consultants in UAEwill help you prepare and submit your
                 application for voluntary disclosure of VAT.
                 <br />
                 <br />

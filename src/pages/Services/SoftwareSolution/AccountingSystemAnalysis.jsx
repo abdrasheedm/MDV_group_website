@@ -30,7 +30,7 @@ function AccountingSystemAnalysis() {
                 choosing the wrong financial accounting software. However, do
                 not hesitate to solve this problem; MDV & CO Associates has taken care of
                 you and provides the best accounting information system services
-                in Dubai, Sharjah, Abu Dhabi, Ajman, and all of the Emirates of
+                in UAE, Sharjah, Abu Dhabi, Ajman, and all of the Emirates of
                 UAE.
               </p>
             </div>
@@ -162,11 +162,11 @@ function AccountingSystemAnalysis() {
             </div>
             <div>
               <h1 className="text-primary text-xl my-5">
-                MDV & CO Associates accounting system services in Dubai
+                MDV & CO Associates accounting system services in UAE
               </h1>
               <p>
                 MDV & CO Associates is one of the reputed accounting and tax consultancy
-                firms in Dubai, UAE. We are professionals in all areas of
+                firms in UAE, UAE. We are professionals in all areas of
                 accounting and management. Our team of experts serves business
                 giants in audit, corporate tax, accounting, and accounting
                 software implementation. MDV & CO Associates helps companies to manage
