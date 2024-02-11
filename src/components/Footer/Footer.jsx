@@ -17,10 +17,10 @@ function Footer() {
             <div className="col-span-6 md:col-span-3 lg:col-span-2  m-5 px-2">
               <h3 className="text-2xl text-secondary">About Us</h3>
               <p>
-                MDV & CO Associates Chartered Accountants is a leading financial consultancy
-                and business advisory firm in the heart of Dubai, Business Bay.
-                We strive to deliver a hundred percent on every tax advisory,
-                auditing, accounting & bookkeeping, and other financial service.{" "}
+                MDV & CO Associates Chartered Accountants is a distinguished financial and business consulting
+                firm that maintains a strong presence in UAE and
+                beyond. Our unwavering commitment to excellence shines through
+                our comprehensive range of services.
               </p>
             </div>
             <div className="col-span-6 md:col-span-3 lg:col-span-1 m-5 px-2">
@@ -38,13 +38,17 @@ function Footer() {
               <div className="mb-3">
                 <div className="flex">
                   <i class="fa-solid fa-location-dot m-3 text-secondary"></i>
-                  <p>Dubai, United Arab Emirates</p>
+                  <p>UAE, United Arab Emirates</p>
                 </div>
               </div>
               <div className="mb-3">
                 <div className="flex">
                   <i class="fa-solid fa-phone mx-3 mt-1 text-secondary"></i>
-                  <p className=""><span>+971 56 453 3568 </span><br></br><span>+971 56 746 2132</span></p>
+                  <p className="">
+                    <span>+971 56 453 3568 </span>
+                    <br></br>
+                    <span>+971 56 746 2132</span>
+                  </p>
                 </div>
               </div>
               <div className="mb-3">

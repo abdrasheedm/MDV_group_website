@@ -14,7 +14,7 @@ function BankReconciliationStatementService() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Bank statement reconciliation services in Dubai
+                Bank statement reconciliation services in UAE
               </h1>
               <p>
                 Every organization, regardless of its size, conducts its

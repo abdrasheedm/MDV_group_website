@@ -47,7 +47,7 @@ function VATPenalty() {
                 apply for an exemption from the VAT penalty.
                 <br />
                 <br /> Our MDV & CO Associates chartered accountants and tax advisors in
-                Dubai provide exclusive VAT services in all major sectors. Our
+                UAEprovide exclusive VAT services in all major sectors. Our
                 priority is to protect our local and international clients from
                 large fines and penalties. We understand the VAT waiver is
                 allowed.
@@ -93,7 +93,7 @@ function VATPenalty() {
                 tax period. Knowledge and perfection are required to file VAT
                 return in accordance with the UAE VAT laws and regulations. It
                 is recommended to use professional VAT return filing services in
-                Dubai and manage sales and other output data in accordance with
+                UAEand manage sales and other output data in accordance with
                 Federal Tax Authority (FTA) standards.
               </p>
             </div>
@@ -173,7 +173,7 @@ function VATPenalty() {
                 1-Application for review of a VAT penalty.
                 <br />
                 <br />
-                2-Appeal to the TDRC (Dubai Tax Dispute Resolution Committee).
+                2-Appeal to the TDRC (UAETax Dispute Resolution Committee).
                 <br />
                 <br />
                 3-Application for reduction/exemption.
@@ -239,7 +239,7 @@ function VATPenalty() {
               </h1>
               <p>
                 MDV & CO Associates is one of the leading accounting and tax advisory firms
-                in Dubai, United Arab Emirates. Our team of chartered
+                in UAE, United Arab Emirates. Our team of chartered
                 accountants assists businesses in the relevant VAT provisions as
                 per the tax procedure law. We will do everything in our power to
                 ensure that you do not receive penalties for non-compliance with

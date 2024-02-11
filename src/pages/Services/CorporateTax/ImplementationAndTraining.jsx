@@ -29,7 +29,7 @@ function CorporateTaxImplementationAndTraining() {
                 international tax standards, following similar measures in
                 neighboring Gulf countries, while reducing the compliance burden
                 for UAE companies and protecting small businesses and start-ups.
-                The UAE, where the main business hub of Dubai is located, will
+                The UAE, where the main business hub of UAEis located, will
                 continue to have one of the lowest corporate tax rates in the
                 world, but this move will allow the country to diversify its
                 income from hydrocarbons.

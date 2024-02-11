@@ -63,7 +63,7 @@ function ExciseStockAudit() {
                 <br />
                 Therefore, the company must keep accurate stock or inventory
                 records. You can hire our tax consultants for any excise
-                services in Dubai, Sharjah, Abu Dhabi, and other Emirates, which
+                services in UAE, Sharjah, Abu Dhabi, and other Emirates, which
                 will protect your company’s account from potential risks and
                 penalties.
               </p>
@@ -184,7 +184,7 @@ function ExciseStockAudit() {
                 missing areas or inaccuracies in regulatory requirements to
                 avoid penalties. They assess and verify all stock together with
                 a reconciliation of existing stock records. Don’t waste time and
-                contact our highly qualified consultants and auditors in Dubai
+                contact our highly qualified consultants and auditors in UAE
                 today!
               </p>
             </div>

@@ -52,7 +52,7 @@ function ExciseTaxImplementation() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                Our excise duty implementation in Dubai
+                Our excise duty implementation in UAE
               </h1>
               <p>
                 MDV & CO Associates offers a range of excise duty implementation services
@@ -74,7 +74,7 @@ function ExciseTaxImplementation() {
                 evaluates certain tax credits and deductions throughout the
                 year. Excise tax planning includes specific strategies and
                 policies to manage excise tax liabilities. With our tax
-                consultants in Dubai, you can get comprehensive assistance in
+                consultants in UAE, you can get comprehensive assistance in
                 excise tax compliance services in accordance with FTA standards.
               </p>
             </div>

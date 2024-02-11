@@ -54,7 +54,7 @@ function Services() {
               <img src={StartupService} alt="" className="h-16" />
               <h2>Business Setup Services</h2>
               <p className="font-medium">
-                Company formation in Dubai/UAE. Expert assistance for company
+                Company formation in UAE. Expert assistance for company
                 formation, licensing, and regulatory processes...{" "}
                 <span className="font-bold hover:cursor-pointer">Read More</span>{" "}
               </p>

@@ -13,10 +13,10 @@ function FirstView() {
         <div className="px-10 py-20 m-5 text-white bg-white bg-opacity-5">
           <div className="mb-10">
           <h4 className="py-3 font-medium text-lg md:text-xl border-b-2 border-green-400">
-            Get Tax, Accounting & Auditing Services in Dubai
+            Get Tax, Accounting & Auditing Services in UAE
           </h4>
           <h1 className="py-5 text-2xl md:text-6xl font-bold">
-            Looking for a Business Consulting firm in Dubai?
+            Looking for a Business Consulting firm in UAE?
           </h1>
 
           <h3 className="text-secondary text-xl font-medium">
@@ -41,7 +41,7 @@ function FirstView() {
               <img src={TaxIcon} alt="" className="h-12 p-2 m-3 col-span-1"/>
               <h4 className="col-span-3 text-center p-2 m-3">Tax Services</h4>
             </div>
-            <div className="grid grid-cols-4 col-span-4 md:col-span-2 m-3 bg-secondary bg-opacity-30 border-2 border-white hover:cursor-pointer" onClick={() => navigate('service/external-audit-services-in-dubai/')}>
+            <div className="grid grid-cols-4 col-span-4 md:col-span-2 m-3 bg-secondary bg-opacity-30 border-2 border-white hover:cursor-pointer" onClick={() => navigate('service/external-audit-services-in-UAE/')}>
               <img src={AuditingIcon} alt="" className="h-12 p-2 m-3 col-span-1"/>
               <h4 className="col-span-3 text-center p-2 m-3">Auditing Services</h4>
             </div>

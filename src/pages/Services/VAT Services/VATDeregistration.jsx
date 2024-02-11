@@ -45,7 +45,7 @@ function VATDeregistration() {
                 suspending a company’s Tax Registration Number (TRN). A taxable
                 person registered under the FTA can apply for the
                 de-registration of VAT. Taxpayers can make this decision
-                themselves or hire a VAT consultant in Dubai, Abu Dhabi, and any
+                themselves or hire a VAT consultant in UAE, Abu Dhabi, and any
                 other emirate to avoid penalties.
               </p>
             </div>
@@ -106,7 +106,7 @@ function VATDeregistration() {
                 VAT deregistration application, it is subject to a late
                 deregistration penalty of AED 1 000 for each month of delay. The
                 best way to comply with all value-added tax laws is to outsource
-                VAT in Dubai.
+                VAT in UAE.
               </p>
             </div>
             <div>
@@ -204,7 +204,7 @@ function VATDeregistration() {
 
             <div>
               <h1 className="text-primary text-3xl my-10">
-                MDV & CO Associates Provides VAT Deregistration in Dubai
+                MDV & CO Associates Provides VAT Deregistration in UAE
               </h1>
               <p>
                 VAT-registered companies need to know how to deregister for VAT,
@@ -212,7 +212,7 @@ function VATDeregistration() {
                 application deadline or submit inaccurate information, which
                 leads to unnecessary VAT penalties in the UAE. In such a
                 situation, our MDV & CO Associates chartered accountants and VAT consultants
-                in Dubai offer professional VAT registration as well as VAT
+                in UAEoffer professional VAT registration as well as VAT
                 exclusion services in accordance with the standards. Our tax
                 experts not only advise taxable businesses but also check all
                 your VAT documents. MDV & CO Associates helps businesses to carry out

@@ -6,7 +6,7 @@ function InternalAduditService() {
     <div className="mb-28">
       <div className="bg-primary py-28 px-20 mt-10">
         <h1 className="text-white text-center text-5xl">
-          Internal Audit Services in Dubai, UAE
+          Internal Audit Services in UAE, UAE
         </h1>
       </div>
       <div className="container mx-auto">
@@ -14,7 +14,7 @@ function InternalAduditService() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Internal Audit Services in Dubai
+                Internal Audit Services in UAE
               </h1>
               <p>
                 An internal audit is an internal process that examines the
@@ -29,11 +29,11 @@ function InternalAduditService() {
                 also requires compliance with Emirati rules and regulations.
                 Companies must comply with a number of tax, audit, and
                 compliance laws to avoid any future penalties. If you want to
-                follow standardized internal audit services in Dubai, you can
+                follow standardized internal audit services in UAE, you can
                 hire expert auditors who can provide you with certified
                 assistance and guide you in all your financial matters. MDV & CO Associates
                 Chartered Accountants is one of the leading firms for internal
-                audit services in Dubai, UAE that provides you with the best
+                audit services in UAE, UAE that provides you with the best
                 consultancy to shape the future of your company.
               </p>
             </div>
@@ -82,7 +82,7 @@ function InternalAduditService() {
                 financial or management objectives. If you run a small or large
                 business in the United Arab Emirates and want to perfectly
                 comply with high international standards, it is essential to use
-                internal audit consulting services in Dubai, Sharjah, or any
+                internal audit consulting services in UAE, Sharjah, or any
                 other emirate. MDV & CO ASSOCIATES CA has a team of highly-qualified and
                 trained chartered accountants readily available to meet your
                 audit requirements such as those mentioned below:
@@ -119,7 +119,7 @@ function InternalAduditService() {
                 Our professional auditors gained trust by working hard in major
                 industries and proved their auditing skills in the UAE market.
                 There is a well-organized method of doing internal audit
-                services in Dubai to regulate your business operations.
+                services in UAEto regulate your business operations.
               </p>
             </div>
             <div>
@@ -149,7 +149,7 @@ function InternalAduditService() {
                 At this stage, our qualified auditors start the real work with
                 your department heads, CEOs, and IT specialists to identify gaps
                 and weaknesses in the current system and recommend necessary
-                improvements. Our internal audit services in Dubai, UAE, will
+                improvements. Our internal audit services in UAE, UAE, will
                 surely help your organization show significant improvements.
               </p>
             </div>

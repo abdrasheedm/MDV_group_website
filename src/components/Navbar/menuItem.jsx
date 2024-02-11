@@ -108,7 +108,7 @@ export const menuItems = [
       title: 'Accounting',
       submenu: [
         {
-          title: 'Accounting Services In Dubai',
+          title: 'Accounting Services In UAE',
           url: 'service/accounting-service-bookkeeping-firm/',
         },
         {
@@ -142,8 +142,8 @@ export const menuItems = [
       title: 'Audit',
       submenu: [
         {
-          title: 'External Audit Services in Dubai',
-          url: 'service/external-audit-services-in-dubai/',
+          title: 'External Audit Services in UAE',
+          url: 'service/external-audit-services-in-UAE/',
         },
         {
           title: 'Tax Audit',
@@ -151,7 +151,7 @@ export const menuItems = [
         },
         {
           title: 'Internal Audit Services',
-          url: 'service/internal-audit-services-in-dubai/',
+          url: 'service/internal-audit-services-in-UAE/',
         },
         {
           title: 'Financial Audit Services',
@@ -177,7 +177,7 @@ export const menuItems = [
           url: 'service/economic-substance-regulations-services/',
         },
         {
-          title: 'Anti-Money Laundering In Dubai',
+          title: 'Anti-Money Laundering In UAE',
           url: 'service/anti-money-laundering/',
         },
        

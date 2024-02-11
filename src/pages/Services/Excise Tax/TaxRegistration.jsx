@@ -14,7 +14,7 @@ function ExsiceTaxRegistration() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Excise Tax Registration in Dubai, UAE
+                Excise Tax Registration in UAE, UAE
               </h1>
               <p>
                 Excise duties are levied on certain goods and services to
@@ -121,7 +121,7 @@ function ExsiceTaxRegistration() {
               </ul>
               <br />
               <p>
-                Our excise tax experts in Dubai are competent to follow this
+                Our excise tax experts in UAEare competent to follow this
                 latest excise registration UAE under the excise laws. We prepare
                 and ensure that all required information is accurate and
                 up-to-date.
@@ -172,7 +172,7 @@ function ExsiceTaxRegistration() {
                 Documents Required For Excise Duty Registration
               </h1>
               <p>
-                To register for excise tax in Dubai, UAE, the following
+                To register for excise tax in UAE, UAE, the following
                 information and supporting documents must be submitted to the
                 Federal Tax Authority:
               </p>
@@ -286,9 +286,9 @@ function ExsiceTaxRegistration() {
               </h1>
               <p>
                 MDV & CO Associates Chartered Accountants and Tax Consultants are part of a
-                reputable accounting firm in Dubai. Our dedicated team assists
+                reputable accounting firm in UAE. Our dedicated team assists
                 individuals and businesses with excise tax compliance services
-                in Sharjah, Abu Dhabi, Dubai, and all other Emirates. We first
+                in Sharjah, Abu Dhabi, UAE, and all other Emirates. We first
                 analyze the nature of your business, the products you offer, and
                 whether they require excise duty registration.
                 <br />

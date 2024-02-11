@@ -22,7 +22,7 @@ function VATCompliantBookKeeping() {
                 non-exempt entities to keep accounting records for at least 5
                 years. A company’s VAT-compliant books and records are used as
                 evidence during FTA audits. MDV & CO Associates has a team of certified tax
-                experts in Dubai who provide the best assistance to national and
+                experts in UAEwho provide the best assistance to national and
                 international clients. We proficiently handle your accounting
                 records and financial transactions in compliance with VAT laws.
                 On this page, we will take a detailed look at VAT accounting in
@@ -134,7 +134,7 @@ function VATCompliantBookKeeping() {
                 for failure to keep accounts is AED 10 000 for the first offense
                 and AED 50 000 for a repeat offense. All taxpayers must
                 therefore comply with the VAT requirements for keeping books and
-                records in the UAE. Our VAT consultants in Dubai offer all types
+                records in the UAE. Our VAT consultants in UAEoffer all types
                 of VAT services in accordance with FTA standards and do
                 everything possible to avoid VAT fines and penalties.
               </p>
@@ -204,7 +204,7 @@ function VATCompliantBookKeeping() {
               </h1>
               <p>
                 MDV & CO Associates is a licensed accounting and financial advisory firm in
-                Dubai that provides exclusive VAT services to both UAE residents
+                UAEthat provides exclusive VAT services to both UAE residents
                 and non-residents. Our team of experts assists you throughout
                 the VAT compliance process in accordance with tax laws and
                 regulations. By tailoring cost-effective accounting solutions
@@ -244,7 +244,7 @@ function VATCompliantBookKeeping() {
               <br />
               <p>
                 If you still have doubts about our VAT-compliant accounting
-                services. You are welcome to contact our tax experts in Dubai,
+                services. You are welcome to contact our tax experts in UAE,
                 United Arab Emirates.
               </p>
             </div>

@@ -14,7 +14,7 @@ function ExcisePreAuditHealthCheck() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Excise Tax Pre-Audit Health Check-In Dubai
+                Excise Tax Pre-Audit Health Check-In UAE
               </h1>
               <p>
                 Since 2017, the United Arab Emirates has introduced excise
@@ -25,7 +25,7 @@ function ExcisePreAuditHealthCheck() {
                 remember as the authorities can call you whenever they want to
                 carry out an excise duty audit. If FTA auditors find
                 non-compliance, the taxpayer can be fined heavily. That is why
-                our tax consultants in Dubai will provide you with a
+                our tax consultants in UAEwill provide you with a
                 professional excise duty pre-audit health check service. By
                 taking these precautions, companies can avoid FTA penalties in
                 the future.
@@ -146,7 +146,7 @@ function ExcisePreAuditHealthCheck() {
               </h1>
 
               <p>
-                MDV & CO Associates is affiliated with leading audit firms in Dubai, United
+                MDV & CO Associates is affiliated with leading audit firms in UAE, United
                 Arab Emirates. The experts have extensive consulting experience
                 in FTA audits and UAE tax laws. A dedicated team of auditors
                 assists you with excise registration, return filing, compliance,

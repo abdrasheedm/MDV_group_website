@@ -44,7 +44,7 @@ function TaxAudit() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                Excise Duty Audit in Dubai
+                Excise Duty Audit in UAE
               </h1>
               <p>
                 Excise duty is the other major type of tax in the UAE, mainly
@@ -81,7 +81,7 @@ function TaxAudit() {
                 re-audit a company if they find fraud, irregularities, and
                 suspicious activity in financial records. To ensure compliance,
                 companies can seek advice from certified tax advisers and
-                chartered accountants in Dubai.
+                chartered accountants in UAE.
               </p>
             </div>
 
@@ -119,7 +119,7 @@ function TaxAudit() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                Preparation for Tax Audit in Dubai, UAE
+                Preparation for Tax Audit in UAE, UAE
               </h1>
               <p>
                 When the FTA decides to audit your company, a tax consultant can
@@ -160,14 +160,14 @@ function TaxAudit() {
             </div>
             <div>
               <h1 className="text-primary text-3xl my-10">
-                How does MDV & CO Associates help you with Tax Audit Services in Dubai?
+                How does MDV & CO Associates help you with Tax Audit Services in UAE?
               </h1>
               <p>
                 MDV & CO Associates is one of the most prominent accounting and audit firms
                 in the UAE. With over 15 years of experience, our chartered
                 accountants provide financial advisory services in almost all
                 major industries. We help you to provide the best VAT audit
-                services in Dubai, United Arab Emirates. Our tax auditors fully
+                services in UAE, United Arab Emirates. Our tax auditors fully
                 assist you before and after the audit to ensure compliance with
                 VAT audit laws. They make sure that all tax-related information
                 and accounting records are in compliance with FTA laws and

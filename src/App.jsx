@@ -96,9 +96,9 @@ function App() {
 
       {/* Audit Services */}
 
-      <Route path='service/external-audit-services-in-dubai/' element={<ExternalAuditServices />} />
+      <Route path='service/external-audit-services-in-UAE/' element={<ExternalAuditServices />} />
       <Route path='service/tax-audit/' element={<TaxAudit />} />
-      <Route path='service/internal-audit-services-in-dubai/' element={<InternalAduditService />} />
+      <Route path='service/internal-audit-services-in-UAE/' element={<InternalAduditService />} />
       <Route path='service/financial-audit-service/' element={<FinancialAuditService />} />
       <Route path='service/stock-audit-service/' element={<StockAuditService />} />
 

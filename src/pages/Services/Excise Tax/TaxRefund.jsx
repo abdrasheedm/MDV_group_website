@@ -175,7 +175,7 @@ function ExciseTaxRefund() {
                 result, companies face compliance problems and heavy fines and
                 penalties from the authorities. For the taxpayer, the process is
                 time-consuming and complicated. Taxpayers are advised to
-                outsource to professional tax advisors in Dubai who will prevent
+                outsource to professional tax advisors in UAEwho will prevent
                 your accounting from FTA penalties.
               </p>
             </div>

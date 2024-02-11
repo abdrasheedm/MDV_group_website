@@ -185,11 +185,11 @@ function IFRSImplementationAndConsultancyService() {
           </div>
           <div>
             <h1 className="text-primary text-3xl my-10">
-              MDV & CO Associates IFRS consulting services in Dubai
+              MDV & CO Associates IFRS consulting services in UAE
             </h1>
             <p>
               MDV & CO Associates has a team of chartered accountants and qualified
-              consultants in Dubai, UAE. Our professionals are certified in
+              consultants in UAE, UAE. Our professionals are certified in
               financial reporting and several accounting systems. We offer a
               wide range of IFRS implementation solutions for specific types of
               businesses. Our consultants provide expert opinions and services

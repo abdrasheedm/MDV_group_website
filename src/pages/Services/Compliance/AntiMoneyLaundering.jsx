@@ -6,7 +6,7 @@ function AntiMoneyLaundering() {
     <div className="mb-28">
       <div className="bg-primary py-28 px-20 mt-10">
         <h1 className="text-white text-center text-5xl">
-          Anti-Money Laundering In Dubai, UAE
+          Anti-Money Laundering In UAE, UAE
         </h1>
       </div>
       <div className="container mx-auto">
@@ -14,15 +14,15 @@ function AntiMoneyLaundering() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Anti-Money Laundering In Dubai, UAE
+                Anti-Money Laundering In UAE, UAE
               </h1>
               <p>
-                Money laundering in Dubai is an illegal process that generates
+                Money laundering in UAEis an illegal process that generates
                 large sums of money through money laundering crimes such as
                 terrorist financing or drug trafficking. It is a serious
                 financial crime in the UAE, seriously damaging the growth rate
                 of businesses and tax revenues. It is easy to see that the fight
-                against money laundering in Dubai is damaging the reputation
+                against money laundering in UAEis damaging the reputation
                 that a company has earned for years.
                 <br />
                 <br />
@@ -30,7 +30,7 @@ function AntiMoneyLaundering() {
                 and commerce. The Emirati government is therefore continuously
                 improving financial regulations and implementing them
                 effectively to combat the risks associated with anti-money
-                laundering in the Dubai region. These money launderers go
+                laundering in the UAEregion. These money launderers go
                 through these three stages to clean their black money:
               </p>
             </div>
@@ -202,11 +202,11 @@ function AntiMoneyLaundering() {
 
             <div>
               <h1 className="text-primary text-3xl my-10">
-                MDV & CO Associates plays a key role in AML compliance in Dubai
+                MDV & CO Associates plays a key role in AML compliance in UAE
               </h1>
               <p>
                 MDV & CO Associates Chartered Accountants always take satisfaction in
-                improving your business’s compliance in Dubai to ensure that you
+                improving your business’s compliance in UAEto ensure that you
                 do not get into trouble. Our AML professionals monitor client
                 transactions and report suspicious financial activities,
                 complying with all relevant anti-money laundering rules and
@@ -222,7 +222,7 @@ function AntiMoneyLaundering() {
               <p>
                 MDV & CO Associates Chartered Accountants fully understand the implications
                 of money laundering in the UAE market. Therefore, it provides
-                quality AML compliance services in compliance with Dubai,
+                quality AML compliance services in compliance with UAE,
                 Sharjah, and UAE regulations. There are some proven tactics that
                 MDV & CO Associates uses to combat money laundering:
               </p>

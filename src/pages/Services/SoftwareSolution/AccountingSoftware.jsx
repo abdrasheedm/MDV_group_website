@@ -19,7 +19,7 @@ function AccountingSoftware() {
               <p>
                 The United Arab Emirates has one of the world’s most dynamic
                 economies and is a leading financial and commercial centre.
-                Dubai is home to global companies establishing and expanding
+                UAEis home to global companies establishing and expanding
                 their international brands and is known as an investment hub.
                 <br />
                 <br />
@@ -76,7 +76,7 @@ function AccountingSoftware() {
               <p>
                 MDV & CO Associates has partnered with leading FTA-approved accounting
                 software and has excelled in implementing it in your businesses
-                operating in Dubai, UAE. Here are the key steps we take to
+                operating in UAE, UAE. Here are the key steps we take to
                 successfully implement a new accounting software.
               </p>
             </div>
@@ -211,7 +211,7 @@ function AccountingSoftware() {
             <div>
               <h1 className="text-primary text-3xl my-10">
                 We are your best choice for ERP and accounting software
-                implementation in Dubai, UAE
+                implementation in UAE, UAE
               </h1>
               <p>
                 After the MDV & CO Associates Chartered Accountants are experts in ERP and

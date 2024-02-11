@@ -6,7 +6,7 @@ function FinancialAuditService() {
     <div className="mb-28">
       <div className="bg-primary py-28 px-20 mt-10">
         <h1 className="text-white text-center text-5xl">
-          Financial Audit Services in Dubai
+          Financial Audit Services in UAE
         </h1>
       </div>
       <div className="container mx-auto">
@@ -14,7 +14,7 @@ function FinancialAuditService() {
           <div className="col-span-3 lg:col-span-2 px-10 mt-10">
             <div>
               <h1 className="text-primary text-4xl my-10">
-                Financial Audit Services in Dubai
+                Financial Audit Services in UAE
               </h1>
               <p>
                 A financial Audit is carried out as an activity to appraise a
@@ -33,7 +33,7 @@ function FinancialAuditService() {
                 having. It further focuses on the critical insights that
                 motivate business decisions to tackle and avoid current and
                 future probably threats. In the competing and ever-evolving
-                financial market, an audit firm in Dubai is expected to do the
+                financial market, an audit firm in UAEis expected to do the
                 same at the core level of its services.
               </p>
             </div>
@@ -44,7 +44,7 @@ function FinancialAuditService() {
               <p>
                 As stated briefly above, a financial statement audit ensures
                 that the preparation of the former is done in light of standards
-                set by GAAP, IAS, and IFRS. Audit firms in Dubai are expected to
+                set by GAAP, IAS, and IFRS. Audit firms in UAEare expected to
                 study the statements with prime expertise and increased
                 surveillance in order to create an accurate and authentic audit
                 report. Firms mainly offering auditing services in UAE do so by
@@ -164,7 +164,7 @@ function FinancialAuditService() {
                 <li>
                   RERA AuditRERA is the Real Estate Regulatory Agency that
                   monitors, regulates and licenses formulate operations and
-                  matters related to Real Estate in Dubai. Real Estate companies
+                  matters related to Real Estate in UAE. Real Estate companies
                   need to get the audit done by federally approved auditors to
                   meet with compliance needs. Approved auditors can carry out
                   the escrow audits for property developers on off-plan sales
@@ -187,7 +187,7 @@ function FinancialAuditService() {
               <br />
               <ul className="list-disc ml-3">
                 <li>
-                  Planning audit firms in Dubai will plan and carry out their
+                  Planning audit firms in UAEwill plan and carry out their
                   audit services in a way that will bring assurance to the fact
                   that financial statements are prepared within compliance scope
                   and are free from any material misstatements. This is the

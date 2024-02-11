@@ -25,7 +25,7 @@ function VATRefund() {
                 and purchases during a given tax period. Often its input VAT is
                 higher than its output VAT, and the business can then claim a
                 VAT refund. Our MDV & CO Associates Chartered Accountants and tax advisors
-                provide excellent VAT refund services in Dubai, Sharjah, Abu
+                provide excellent VAT refund services in UAE, Sharjah, Abu
                 Dhabi, Ajman, and other Emirates.
               </p>
             </div>
@@ -91,7 +91,7 @@ function VATRefund() {
                 accepts or rejects their applications. Incorrect information is
                 the most common reason for the delay or rejection of
                 applications. If you choose reputable VAT refund services in
-                Dubai, you have a better chance of receiving your VAT refund
+                UAE, you have a better chance of receiving your VAT refund
                 without unnecessary delays.
               </p>
             </div>
@@ -118,7 +118,7 @@ function VATRefund() {
             </div>
             <div>
               <h1 className="text-primary text-xl my-5">
-                How Can I Claim a VAT Refund in Dubai?
+                How Can I Claim a VAT Refund in UAE?
               </h1>
               <br />
               <ul className="list-disc px-5 text-xl">
@@ -161,7 +161,7 @@ function VATRefund() {
                 Requirements For The VAT311 Form
               </h1>
               <p>
-                To apply for a VAT refund in Dubai, you need to fill in the
+                To apply for a VAT refund in UAE, you need to fill in the
                 following pre-filled application fields. For example:
               </p>
               <br />
@@ -212,13 +212,13 @@ function VATRefund() {
             <div>
               <h1 className="text-primary text-3xl my-10">
                 Get Expert VAT Refund Services and VAT Return Consultants in
-                Dubai
+                UAE
               </h1>
               <p>
                 Businesses operating in the UAE can avoid fines and penalties by
                 ensuring their records are VAT compliant. MDV & CO Associates chartered
                 accountants and VAT consultants provide a remarkable and
-                guaranteed VAT refund service in Dubai. Our team of tax experts
+                guaranteed VAT refund service in UAE. Our team of tax experts
                 review, verify and calculate your input and output tax whether
                 it is payable or refundable. They ensure that your company’s
                 application package meets FTA standards. Certified consultants

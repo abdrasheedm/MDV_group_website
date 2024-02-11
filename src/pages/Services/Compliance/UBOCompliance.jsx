@@ -131,7 +131,7 @@ function UBOCompliance() {
               <br />
               <ul className="list-disc ml-3">
                 <li>
-                  Licensed free zone entities (Dubai International Financial
+                  Licensed free zone entities (UAEInternational Financial
                   Centre and Abu Dhabi Global Markets).
                 </li>
                 <li>
