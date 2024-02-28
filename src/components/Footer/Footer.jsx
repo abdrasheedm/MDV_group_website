@@ -38,7 +38,7 @@ function Footer() {
               <div className="mb-3">
                 <div className="flex">
                   <i class="fa-solid fa-location-dot m-3 text-secondary"></i>
-                  <p>UAE, United Arab Emirates</p>
+                  <p className="mt-2">Dubai, United Arab Emirates</p>
                 </div>
               </div>
               <div className="mb-3">
